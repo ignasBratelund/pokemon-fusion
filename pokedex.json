@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "Bulbasaur",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BULBASAUR.png",
     "primary_type": "GRASS",
     "secondary_type": "POISON",
     "hp": 45,
@@ -15,6 +16,7 @@
   {
     "id": 2,
     "name": "Ivysaur",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/IVYSAUR.png",
     "primary_type": "GRASS",
     "secondary_type": "POISON",
     "hp": 60,
@@ -28,6 +30,7 @@
   {
     "id": 3,
     "name": "Venusaur",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/VENUSAUR.png",
     "primary_type": "GRASS",
     "secondary_type": "POISON",
     "hp": 80,
@@ -41,6 +44,7 @@
   {
     "id": 4,
     "name": "Charmander",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CHARMANDER.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 39,
@@ -54,6 +58,7 @@
   {
     "id": 5,
     "name": "Charmeleon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CHARMELEON.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 58,
@@ -67,6 +72,7 @@
   {
     "id": 6,
     "name": "Charizard",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CHARIZARD.png",
     "primary_type": "FIRE",
     "secondary_type": "FLYING",
     "hp": 78,
@@ -80,6 +86,7 @@
   {
     "id": 7,
     "name": "Squirtle",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SQUIRTLE.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 44,
@@ -93,6 +100,7 @@
   {
     "id": 8,
     "name": "Wartortle",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WARTORTLE.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 59,
@@ -106,6 +114,7 @@
   {
     "id": 9,
     "name": "Blastoise",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BLASTOISE.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 79,
@@ -119,6 +128,7 @@
   {
     "id": 10,
     "name": "Caterpie",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CATERPIE.png",
     "primary_type": "BUG",
     "secondary_type": "BUG",
     "hp": 45,
@@ -132,6 +142,7 @@
   {
     "id": 11,
     "name": "Metapod",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/METAPOD.png",
     "primary_type": "BUG",
     "secondary_type": "BUG",
     "hp": 50,
@@ -145,6 +156,7 @@
   {
     "id": 12,
     "name": "Butterfree",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BUTTERFREE.png",
     "primary_type": "BUG",
     "secondary_type": "FLYING",
     "hp": 60,
@@ -158,6 +170,7 @@
   {
     "id": 13,
     "name": "Weedle",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WEEDLE.png",
     "primary_type": "BUG",
     "secondary_type": "POISON",
     "hp": 40,
@@ -171,6 +184,7 @@
   {
     "id": 14,
     "name": "Kakuna",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KAKUNA.png",
     "primary_type": "BUG",
     "secondary_type": "POISON",
     "hp": 45,
@@ -184,6 +198,7 @@
   {
     "id": 15,
     "name": "Beedrill",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BEEDRILL.png",
     "primary_type": "BUG",
     "secondary_type": "POISON",
     "hp": 65,
@@ -197,6 +212,7 @@
   {
     "id": 16,
     "name": "Pidgey",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PIDGEY.png",
     "primary_type": "NORMAL",
     "secondary_type": "FLYING",
     "hp": 40,
@@ -210,6 +226,7 @@
   {
     "id": 17,
     "name": "Pidgeotto",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PIDGEOTTO.png",
     "primary_type": "NORMAL",
     "secondary_type": "FLYING",
     "hp": 63,
@@ -223,6 +240,7 @@
   {
     "id": 18,
     "name": "Pidgeot",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PIDGEOT.png",
     "primary_type": "NORMAL",
     "secondary_type": "FLYING",
     "hp": 83,
@@ -236,6 +254,7 @@
   {
     "id": 19,
     "name": "Rattata",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/RATTATA.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 30,
@@ -249,6 +268,7 @@
   {
     "id": 20,
     "name": "Raticate",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/RATICATE.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 55,
@@ -262,6 +282,7 @@
   {
     "id": 21,
     "name": "Spearow",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SPEAROW.png",
     "primary_type": "NORMAL",
     "secondary_type": "FLYING",
     "hp": 40,
@@ -275,6 +296,7 @@
   {
     "id": 22,
     "name": "Fearow",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FEAROW.png",
     "primary_type": "NORMAL",
     "secondary_type": "FLYING",
     "hp": 65,
@@ -288,6 +310,7 @@
   {
     "id": 23,
     "name": "Ekans",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/EKANS.png",
     "primary_type": "POISON",
     "secondary_type": "POISON",
     "hp": 35,
@@ -301,6 +324,7 @@
   {
     "id": 24,
     "name": "Arbok",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ARBOK.png",
     "primary_type": "POISON",
     "secondary_type": "POISON",
     "hp": 60,
@@ -314,6 +338,7 @@
   {
     "id": 25,
     "name": "Pikachu",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PIKACHU.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 35,
@@ -327,6 +352,7 @@
   {
     "id": 26,
     "name": "Raichu",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/RAICHU.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 60,
@@ -340,6 +366,7 @@
   {
     "id": 27,
     "name": "Sandshrew",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SANDSHREW.png",
     "primary_type": "GROUND",
     "secondary_type": "GROUND",
     "hp": 50,
@@ -353,6 +380,7 @@
   {
     "id": 28,
     "name": "Sandslash",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SANDSLASH.png",
     "primary_type": "GROUND",
     "secondary_type": "GROUND",
     "hp": 75,
@@ -366,6 +394,7 @@
   {
     "id": 29,
     "name": "Nidoran♀",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/NIDORAN♀.png",
     "primary_type": "POISON",
     "secondary_type": "POISON",
     "hp": 55,
@@ -379,6 +408,7 @@
   {
     "id": 30,
     "name": "Nidorina",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/NIDORINA.png",
     "primary_type": "POISON",
     "secondary_type": "POISON",
     "hp": 70,
@@ -392,6 +422,7 @@
   {
     "id": 31,
     "name": "Nidoqueen",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/NIDOQUEEN.png",
     "primary_type": "POISON",
     "secondary_type": "GROUND",
     "hp": 90,
@@ -405,6 +436,7 @@
   {
     "id": 32,
     "name": "Nidoran♂",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/NIDORAN♂.png",
     "primary_type": "POISON",
     "secondary_type": "POISON",
     "hp": 46,
@@ -418,6 +450,7 @@
   {
     "id": 33,
     "name": "Nidorino",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/NIDORINO.png",
     "primary_type": "POISON",
     "secondary_type": "POISON",
     "hp": 61,
@@ -431,6 +464,7 @@
   {
     "id": 34,
     "name": "Nidoking",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/NIDOKING.png",
     "primary_type": "POISON",
     "secondary_type": "GROUND",
     "hp": 81,
@@ -444,6 +478,7 @@
   {
     "id": 35,
     "name": "Clefairy",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CLEFAIRY.png",
     "primary_type": "FAIRY",
     "secondary_type": "FAIRY",
     "hp": 70,
@@ -457,6 +492,7 @@
   {
     "id": 36,
     "name": "Clefable",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CLEFABLE.png",
     "primary_type": "FAIRY",
     "secondary_type": "FAIRY",
     "hp": 95,
@@ -470,6 +506,7 @@
   {
     "id": 37,
     "name": "Vulpix",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/VULPIX.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 38,
@@ -483,6 +520,7 @@
   {
     "id": 38,
     "name": "Ninetales",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/NINETALES.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 73,
@@ -496,6 +534,7 @@
   {
     "id": 39,
     "name": "Jigglypuff",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/JIGGLYPUFF.png",
     "primary_type": "NORMAL",
     "secondary_type": "FAIRY",
     "hp": 115,
@@ -509,6 +548,7 @@
   {
     "id": 40,
     "name": "Wigglytuff",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WIGGLYTUFF.png",
     "primary_type": "NORMAL",
     "secondary_type": "FAIRY",
     "hp": 140,
@@ -522,6 +562,7 @@
   {
     "id": 41,
     "name": "Zubat",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ZUBAT.png",
     "primary_type": "POISON",
     "secondary_type": "FLYING",
     "hp": 40,
@@ -535,6 +576,7 @@
   {
     "id": 42,
     "name": "Golbat",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GOLBAT.png",
     "primary_type": "POISON",
     "secondary_type": "FLYING",
     "hp": 75,
@@ -548,6 +590,7 @@
   {
     "id": 43,
     "name": "Oddish",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ODDISH.png",
     "primary_type": "GRASS",
     "secondary_type": "POISON",
     "hp": 45,
@@ -561,6 +604,7 @@
   {
     "id": 44,
     "name": "Gloom",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GLOOM.png",
     "primary_type": "GRASS",
     "secondary_type": "POISON",
     "hp": 60,
@@ -574,6 +618,7 @@
   {
     "id": 45,
     "name": "Vileplume",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/VILEPLUME.png",
     "primary_type": "GRASS",
     "secondary_type": "POISON",
     "hp": 75,
@@ -587,6 +632,7 @@
   {
     "id": 46,
     "name": "Paras",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PARAS.png",
     "primary_type": "BUG",
     "secondary_type": "GRASS",
     "hp": 35,
@@ -600,6 +646,7 @@
   {
     "id": 47,
     "name": "Parasect",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PARASECT.png",
     "primary_type": "BUG",
     "secondary_type": "GRASS",
     "hp": 60,
@@ -613,6 +660,7 @@
   {
     "id": 48,
     "name": "Venonat",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/VENONAT.png",
     "primary_type": "BUG",
     "secondary_type": "POISON",
     "hp": 60,
@@ -626,6 +674,7 @@
   {
     "id": 49,
     "name": "Venomoth",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/VENOMOTH.png",
     "primary_type": "BUG",
     "secondary_type": "POISON",
     "hp": 70,
@@ -639,6 +688,7 @@
   {
     "id": 50,
     "name": "Diglett",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DIGLETT.png",
     "primary_type": "GROUND",
     "secondary_type": "GROUND",
     "hp": 10,
@@ -652,6 +702,7 @@
   {
     "id": 51,
     "name": "Dugtrio",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DUGTRIO.png",
     "primary_type": "GROUND",
     "secondary_type": "GROUND",
     "hp": 35,
@@ -665,6 +716,7 @@
   {
     "id": 52,
     "name": "Meowth",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MEOWTH.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 40,
@@ -678,6 +730,7 @@
   {
     "id": 53,
     "name": "Persian",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PERSIAN.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 65,
@@ -691,6 +744,7 @@
   {
     "id": 54,
     "name": "Psyduck",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PSYDUCK.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 50,
@@ -704,6 +758,7 @@
   {
     "id": 55,
     "name": "Golduck",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GOLDUCK.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 80,
@@ -717,6 +772,7 @@
   {
     "id": 56,
     "name": "Mankey",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MANKEY.png",
     "primary_type": "FIGHTING",
     "secondary_type": "FIGHTING",
     "hp": 40,
@@ -730,6 +786,7 @@
   {
     "id": 57,
     "name": "Primeape",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PRIMEAPE.png",
     "primary_type": "FIGHTING",
     "secondary_type": "FIGHTING",
     "hp": 65,
@@ -743,6 +800,7 @@
   {
     "id": 58,
     "name": "Growlithe",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GROWLITHE.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 55,
@@ -756,6 +814,7 @@
   {
     "id": 59,
     "name": "Arcanine",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ARCANINE.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 90,
@@ -769,6 +828,7 @@
   {
     "id": 60,
     "name": "Poliwag",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/POLIWAG.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 40,
@@ -782,6 +842,7 @@
   {
     "id": 61,
     "name": "Poliwhirl",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/POLIWHIRL.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 65,
@@ -795,6 +856,7 @@
   {
     "id": 62,
     "name": "Poliwrath",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/POLIWRATH.png",
     "primary_type": "WATER",
     "secondary_type": "FIGHTING",
     "hp": 90,
@@ -808,6 +870,7 @@
   {
     "id": 63,
     "name": "Abra",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ABRA.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 25,
@@ -821,6 +884,7 @@
   {
     "id": 64,
     "name": "Kadabra",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KADABRA.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 40,
@@ -834,6 +898,7 @@
   {
     "id": 65,
     "name": "Alakazam",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ALAKAZAM.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 55,
@@ -847,6 +912,7 @@
   {
     "id": 66,
     "name": "Machop",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MACHOP.png",
     "primary_type": "FIGHTING",
     "secondary_type": "FIGHTING",
     "hp": 70,
@@ -860,6 +926,7 @@
   {
     "id": 67,
     "name": "Machoke",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MACHOKE.png",
     "primary_type": "FIGHTING",
     "secondary_type": "FIGHTING",
     "hp": 80,
@@ -873,6 +940,7 @@
   {
     "id": 68,
     "name": "Machamp",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MACHAMP.png",
     "primary_type": "FIGHTING",
     "secondary_type": "FIGHTING",
     "hp": 90,
@@ -886,6 +954,7 @@
   {
     "id": 69,
     "name": "Bellsprout",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BELLSPROUT.png",
     "primary_type": "GRASS",
     "secondary_type": "POISON",
     "hp": 50,
@@ -899,6 +968,7 @@
   {
     "id": 70,
     "name": "Weepinbell",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WEEPINBELL.png",
     "primary_type": "GRASS",
     "secondary_type": "POISON",
     "hp": 65,
@@ -912,6 +982,7 @@
   {
     "id": 71,
     "name": "Victreebel",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/VICTREEBEL.png",
     "primary_type": "GRASS",
     "secondary_type": "POISON",
     "hp": 80,
@@ -925,6 +996,7 @@
   {
     "id": 72,
     "name": "Tentacool",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TENTACOOL.png",
     "primary_type": "WATER",
     "secondary_type": "POISON",
     "hp": 40,
@@ -938,6 +1010,7 @@
   {
     "id": 73,
     "name": "Tentacruel",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TENTACRUEL.png",
     "primary_type": "WATER",
     "secondary_type": "POISON",
     "hp": 80,
@@ -951,6 +1024,7 @@
   {
     "id": 74,
     "name": "Geodude",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GEODUDE.png",
     "primary_type": "ROCK",
     "secondary_type": "GROUND",
     "hp": 40,
@@ -964,6 +1038,7 @@
   {
     "id": 75,
     "name": "Graveler",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GRAVELER.png",
     "primary_type": "ROCK",
     "secondary_type": "GROUND",
     "hp": 55,
@@ -977,6 +1052,7 @@
   {
     "id": 76,
     "name": "Golem",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GOLEM.png",
     "primary_type": "ROCK",
     "secondary_type": "GROUND",
     "hp": 80,
@@ -990,6 +1066,7 @@
   {
     "id": 77,
     "name": "Ponyta",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PONYTA.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 50,
@@ -1003,6 +1080,7 @@
   {
     "id": 78,
     "name": "Rapidash",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/RAPIDASH.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 65,
@@ -1016,6 +1094,7 @@
   {
     "id": 79,
     "name": "Slowpoke",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SLOWPOKE.png",
     "primary_type": "WATER",
     "secondary_type": "PSYCHIC",
     "hp": 90,
@@ -1029,6 +1108,7 @@
   {
     "id": 80,
     "name": "Slowbro",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SLOWBRO.png",
     "primary_type": "WATER",
     "secondary_type": "PSYCHIC",
     "hp": 95,
@@ -1042,6 +1122,7 @@
   {
     "id": 81,
     "name": "Magnemite",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MAGNEMITE.png",
     "primary_type": "STEEL",
     "secondary_type": "ELECTRIC",
     "hp": 25,
@@ -1055,6 +1136,7 @@
   {
     "id": 82,
     "name": "Magneton",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MAGNETON.png",
     "primary_type": "STEEL",
     "secondary_type": "ELECTRIC",
     "hp": 50,
@@ -1068,6 +1150,7 @@
   {
     "id": 83,
     "name": "Farfetch'd",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FARFETCHD.png",
     "primary_type": "NORMAL",
     "secondary_type": "FLYING",
     "hp": 52,
@@ -1081,6 +1164,7 @@
   {
     "id": 84,
     "name": "Doduo",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DODUO.png",
     "primary_type": "NORMAL",
     "secondary_type": "FLYING",
     "hp": 35,
@@ -1094,6 +1178,7 @@
   {
     "id": 85,
     "name": "Dodrio",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DODRIO.png",
     "primary_type": "NORMAL",
     "secondary_type": "FLYING",
     "hp": 60,
@@ -1107,6 +1192,7 @@
   {
     "id": 86,
     "name": "Seel",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SEEL.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 65,
@@ -1120,6 +1206,7 @@
   {
     "id": 87,
     "name": "Dewgong",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DEWGONG.png",
     "primary_type": "WATER",
     "secondary_type": "ICE",
     "hp": 90,
@@ -1133,6 +1220,7 @@
   {
     "id": 88,
     "name": "Grimer",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GRIMER.png",
     "primary_type": "POISON",
     "secondary_type": "POISON",
     "hp": 80,
@@ -1146,6 +1234,7 @@
   {
     "id": 89,
     "name": "Muk",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MUK.png",
     "primary_type": "POISON",
     "secondary_type": "POISON",
     "hp": 105,
@@ -1159,6 +1248,7 @@
   {
     "id": 90,
     "name": "Shellder",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SHELLDER.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 30,
@@ -1172,6 +1262,7 @@
   {
     "id": 91,
     "name": "Cloyster",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CLOYSTER.png",
     "primary_type": "WATER",
     "secondary_type": "ICE",
     "hp": 50,
@@ -1185,6 +1276,7 @@
   {
     "id": 92,
     "name": "Gastly",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GASTLY.png",
     "primary_type": "GHOST",
     "secondary_type": "POISON",
     "hp": 30,
@@ -1198,6 +1290,7 @@
   {
     "id": 93,
     "name": "Haunter",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HAUNTER.png",
     "primary_type": "GHOST",
     "secondary_type": "POISON",
     "hp": 45,
@@ -1211,6 +1304,7 @@
   {
     "id": 94,
     "name": "Gengar",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GENGAR.png",
     "primary_type": "GHOST",
     "secondary_type": "POISON",
     "hp": 60,
@@ -1224,6 +1318,7 @@
   {
     "id": 95,
     "name": "Onix",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ONIX.png",
     "primary_type": "ROCK",
     "secondary_type": "GROUND",
     "hp": 35,
@@ -1237,6 +1332,7 @@
   {
     "id": 96,
     "name": "Drowzee",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DROWZEE.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 60,
@@ -1250,6 +1346,7 @@
   {
     "id": 97,
     "name": "Hypno",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HYPNO.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 85,
@@ -1263,6 +1360,7 @@
   {
     "id": 98,
     "name": "Krabby",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KRABBY.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 30,
@@ -1276,6 +1374,7 @@
   {
     "id": 99,
     "name": "Kingler",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KINGLER.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 55,
@@ -1289,6 +1388,7 @@
   {
     "id": 100,
     "name": "Voltorb",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/VOLTORB.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 40,
@@ -1302,6 +1402,7 @@
   {
     "id": 101,
     "name": "Electrode",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ELECTRODE.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 60,
@@ -1315,6 +1416,7 @@
   {
     "id": 102,
     "name": "Exeggcute",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/EXEGGCUTE.png",
     "primary_type": "GRASS",
     "secondary_type": "PSYCHIC",
     "hp": 60,
@@ -1328,6 +1430,7 @@
   {
     "id": 103,
     "name": "Exeggutor",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/EXEGGUTOR.png",
     "primary_type": "GRASS",
     "secondary_type": "PSYCHIC",
     "hp": 95,
@@ -1341,6 +1444,7 @@
   {
     "id": 104,
     "name": "Cubone",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CUBONE.png",
     "primary_type": "GROUND",
     "secondary_type": "GROUND",
     "hp": 50,
@@ -1354,6 +1458,7 @@
   {
     "id": 105,
     "name": "Marowak",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MAROWAK.png",
     "primary_type": "GROUND",
     "secondary_type": "GROUND",
     "hp": 60,
@@ -1367,6 +1472,7 @@
   {
     "id": 106,
     "name": "Hitmonlee",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HITMONLEE.png",
     "primary_type": "FIGHTING",
     "secondary_type": "FIGHTING",
     "hp": 50,
@@ -1380,6 +1486,7 @@
   {
     "id": 107,
     "name": "Hitmonchan",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HITMONCHAN.png",
     "primary_type": "FIGHTING",
     "secondary_type": "FIGHTING",
     "hp": 50,
@@ -1393,6 +1500,7 @@
   {
     "id": 108,
     "name": "Lickitung",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LICKITUNG.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 90,
@@ -1406,6 +1514,7 @@
   {
     "id": 109,
     "name": "Koffing",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KOFFING.png",
     "primary_type": "POISON",
     "secondary_type": "POISON",
     "hp": 40,
@@ -1419,6 +1528,7 @@
   {
     "id": 110,
     "name": "Weezing",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WEEZING.png",
     "primary_type": "POISON",
     "secondary_type": "POISON",
     "hp": 65,
@@ -1432,6 +1542,7 @@
   {
     "id": 111,
     "name": "Rhyhorn",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/RHYHORN.png",
     "primary_type": "GROUND",
     "secondary_type": "ROCK",
     "hp": 80,
@@ -1445,6 +1556,7 @@
   {
     "id": 112,
     "name": "Rhydon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/RHYDON.png",
     "primary_type": "GROUND",
     "secondary_type": "ROCK",
     "hp": 105,
@@ -1458,6 +1570,7 @@
   {
     "id": 113,
     "name": "Chansey",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CHANSEY.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 250,
@@ -1471,6 +1584,7 @@
   {
     "id": 114,
     "name": "Tangela",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TANGELA.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 65,
@@ -1484,6 +1598,7 @@
   {
     "id": 115,
     "name": "Kangaskhan",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KANGASKHAN.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 105,
@@ -1497,6 +1612,7 @@
   {
     "id": 116,
     "name": "Horsea",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HORSEA.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 30,
@@ -1510,6 +1626,7 @@
   {
     "id": 117,
     "name": "Seadra",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SEADRA.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 55,
@@ -1523,6 +1640,7 @@
   {
     "id": 118,
     "name": "Goldeen",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GOLDEEN.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 45,
@@ -1536,6 +1654,7 @@
   {
     "id": 119,
     "name": "Seaking",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SEAKING.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 80,
@@ -1549,6 +1668,7 @@
   {
     "id": 120,
     "name": "Staryu",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/STARYU.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 30,
@@ -1562,6 +1682,7 @@
   {
     "id": 121,
     "name": "Starmie",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/STARMIE.png",
     "primary_type": "WATER",
     "secondary_type": "PSYCHIC",
     "hp": 60,
@@ -1575,6 +1696,7 @@
   {
     "id": 122,
     "name": "Mr. Mime",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MRMIME.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "FAIRY",
     "hp": 40,
@@ -1588,6 +1710,7 @@
   {
     "id": 123,
     "name": "Scyther",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SCYTHER.png",
     "primary_type": "BUG",
     "secondary_type": "FLYING",
     "hp": 70,
@@ -1601,6 +1724,7 @@
   {
     "id": 124,
     "name": "Jynx",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/JYNX.png",
     "primary_type": "ICE",
     "secondary_type": "PSYCHIC",
     "hp": 65,
@@ -1614,6 +1738,7 @@
   {
     "id": 125,
     "name": "Electabuzz",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ELECTABUZZ.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 65,
@@ -1627,6 +1752,7 @@
   {
     "id": 126,
     "name": "Magmar",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MAGMAR.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 65,
@@ -1640,6 +1766,7 @@
   {
     "id": 127,
     "name": "Pinsir",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PINSIR.png",
     "primary_type": "BUG",
     "secondary_type": "BUG",
     "hp": 65,
@@ -1653,6 +1780,7 @@
   {
     "id": 128,
     "name": "Tauros",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TAUROS.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 75,
@@ -1666,6 +1794,7 @@
   {
     "id": 129,
     "name": "Magikarp",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MAGIKARP.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 20,
@@ -1679,6 +1808,7 @@
   {
     "id": 130,
     "name": "Gyarados",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GYARADOS.png",
     "primary_type": "WATER",
     "secondary_type": "FLYING",
     "hp": 95,
@@ -1692,6 +1822,7 @@
   {
     "id": 131,
     "name": "Lapras",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LAPRAS.png",
     "primary_type": "WATER",
     "secondary_type": "ICE",
     "hp": 130,
@@ -1705,6 +1836,7 @@
   {
     "id": 132,
     "name": "Ditto",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DITTO.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 48,
@@ -1718,6 +1850,7 @@
   {
     "id": 133,
     "name": "Eevee",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/EEVEE.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 55,
@@ -1731,6 +1864,7 @@
   {
     "id": 134,
     "name": "Vaporeon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/VAPOREON.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 130,
@@ -1744,6 +1878,7 @@
   {
     "id": 135,
     "name": "Jolteon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/JOLTEON.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 65,
@@ -1757,6 +1892,7 @@
   {
     "id": 136,
     "name": "Flareon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FLAREON.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 65,
@@ -1770,6 +1906,7 @@
   {
     "id": 137,
     "name": "Porygon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PORYGON.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 65,
@@ -1783,6 +1920,7 @@
   {
     "id": 138,
     "name": "Omanyte",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/OMANYTE.png",
     "primary_type": "ROCK",
     "secondary_type": "WATER",
     "hp": 35,
@@ -1796,6 +1934,7 @@
   {
     "id": 139,
     "name": "Omastar",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/OMASTAR.png",
     "primary_type": "ROCK",
     "secondary_type": "WATER",
     "hp": 70,
@@ -1809,6 +1948,7 @@
   {
     "id": 140,
     "name": "Kabuto",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KABUTO.png",
     "primary_type": "ROCK",
     "secondary_type": "WATER",
     "hp": 30,
@@ -1822,6 +1962,7 @@
   {
     "id": 141,
     "name": "Kabutops",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KABUTOPS.png",
     "primary_type": "ROCK",
     "secondary_type": "WATER",
     "hp": 60,
@@ -1835,6 +1976,7 @@
   {
     "id": 142,
     "name": "Aerodactyl",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/AERODACTYL.png",
     "primary_type": "ROCK",
     "secondary_type": "FLYING",
     "hp": 80,
@@ -1848,6 +1990,7 @@
   {
     "id": 143,
     "name": "Snorlax",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SNORLAX.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 160,
@@ -1861,6 +2004,7 @@
   {
     "id": 144,
     "name": "Articuno",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ARTICUNO.png",
     "primary_type": "ICE",
     "secondary_type": "FLYING",
     "hp": 90,
@@ -1874,6 +2018,7 @@
   {
     "id": 145,
     "name": "Zapdos",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ZAPDOS.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "FLYING",
     "hp": 90,
@@ -1887,6 +2032,7 @@
   {
     "id": 146,
     "name": "Moltres",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MOLTRES.png",
     "primary_type": "FIRE",
     "secondary_type": "FLYING",
     "hp": 90,
@@ -1900,6 +2046,7 @@
   {
     "id": 147,
     "name": "Dratini",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DRATINI.png",
     "primary_type": "DRAGON",
     "secondary_type": "DRAGON",
     "hp": 41,
@@ -1913,6 +2060,7 @@
   {
     "id": 148,
     "name": "Dragonair",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DRAGONAIR.png",
     "primary_type": "DRAGON",
     "secondary_type": "DRAGON",
     "hp": 61,
@@ -1926,6 +2074,7 @@
   {
     "id": 149,
     "name": "Dragonite",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DRAGONITE.png",
     "primary_type": "DRAGON",
     "secondary_type": "FLYING",
     "hp": 91,
@@ -1939,6 +2088,7 @@
   {
     "id": 150,
     "name": "Mewtwo",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MEWTWO.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 106,
@@ -1952,6 +2102,7 @@
   {
     "id": 151,
     "name": "Mew",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MEW.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 100,
@@ -1965,6 +2116,7 @@
   {
     "id": 152,
     "name": "Chikorita",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CHIKORITA.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 45,
@@ -1978,6 +2130,7 @@
   {
     "id": 153,
     "name": "Bayleef",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BAYLEEF.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 60,
@@ -1991,6 +2144,7 @@
   {
     "id": 154,
     "name": "Meganium",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MEGANIUM.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 80,
@@ -2004,6 +2158,7 @@
   {
     "id": 155,
     "name": "Cyndaquil",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CYNDAQUIL.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 39,
@@ -2017,6 +2172,7 @@
   {
     "id": 156,
     "name": "Quilava",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/QUILAVA.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 58,
@@ -2030,6 +2186,7 @@
   {
     "id": 157,
     "name": "Typhlosion",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TYPHLOSION.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 78,
@@ -2043,6 +2200,7 @@
   {
     "id": 158,
     "name": "Totodile",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TOTODILE.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 50,
@@ -2056,6 +2214,7 @@
   {
     "id": 159,
     "name": "Croconaw",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CROCONAW.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 65,
@@ -2069,6 +2228,7 @@
   {
     "id": 160,
     "name": "Feraligatr",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FERALIGATR.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 85,
@@ -2082,6 +2242,7 @@
   {
     "id": 161,
     "name": "Sentret",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SENTRET.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 35,
@@ -2095,6 +2256,7 @@
   {
     "id": 162,
     "name": "Furret",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FURRET.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 85,
@@ -2108,6 +2270,7 @@
   {
     "id": 163,
     "name": "Hoothoot",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HOOTHOOT.png",
     "primary_type": "NORMAL",
     "secondary_type": "FLYING",
     "hp": 60,
@@ -2121,6 +2284,7 @@
   {
     "id": 164,
     "name": "Noctowl",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/NOCTOWL.png",
     "primary_type": "NORMAL",
     "secondary_type": "FLYING",
     "hp": 100,
@@ -2134,6 +2298,7 @@
   {
     "id": 165,
     "name": "Ledyba",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LEDYBA.png",
     "primary_type": "BUG",
     "secondary_type": "FLYING",
     "hp": 40,
@@ -2147,6 +2312,7 @@
   {
     "id": 166,
     "name": "Ledian",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LEDIAN.png",
     "primary_type": "BUG",
     "secondary_type": "FLYING",
     "hp": 55,
@@ -2160,6 +2326,7 @@
   {
     "id": 167,
     "name": "Spinarak",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SPINARAK.png",
     "primary_type": "BUG",
     "secondary_type": "POISON",
     "hp": 40,
@@ -2173,6 +2340,7 @@
   {
     "id": 168,
     "name": "Ariados",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ARIADOS.png",
     "primary_type": "BUG",
     "secondary_type": "POISON",
     "hp": 70,
@@ -2186,6 +2354,7 @@
   {
     "id": 169,
     "name": "Crobat",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CROBAT.png",
     "primary_type": "POISON",
     "secondary_type": "FLYING",
     "hp": 85,
@@ -2199,6 +2368,7 @@
   {
     "id": 170,
     "name": "Chinchou",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CHINCHOU.png",
     "primary_type": "WATER",
     "secondary_type": "ELECTRIC",
     "hp": 75,
@@ -2212,6 +2382,7 @@
   {
     "id": 171,
     "name": "Lanturn",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LANTURN.png",
     "primary_type": "WATER",
     "secondary_type": "ELECTRIC",
     "hp": 125,
@@ -2225,6 +2396,7 @@
   {
     "id": 172,
     "name": "Pichu",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PICHU.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 20,
@@ -2238,6 +2410,7 @@
   {
     "id": 173,
     "name": "Cleffa",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CLEFFA.png",
     "primary_type": "FAIRY",
     "secondary_type": "FAIRY",
     "hp": 50,
@@ -2251,6 +2424,7 @@
   {
     "id": 174,
     "name": "Igglybuff",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/IGGLYBUFF.png",
     "primary_type": "NORMAL",
     "secondary_type": "FAIRY",
     "hp": 90,
@@ -2264,6 +2438,7 @@
   {
     "id": 175,
     "name": "Togepi",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TOGEPI.png",
     "primary_type": "FAIRY",
     "secondary_type": "FAIRY",
     "hp": 35,
@@ -2277,6 +2452,7 @@
   {
     "id": 176,
     "name": "Togetic",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TOGETIC.png",
     "primary_type": "FAIRY",
     "secondary_type": "FLYING",
     "hp": 55,
@@ -2290,6 +2466,7 @@
   {
     "id": 177,
     "name": "Natu",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/NATU.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "FLYING",
     "hp": 40,
@@ -2303,6 +2480,7 @@
   {
     "id": 178,
     "name": "Xatu",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/XATU.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "FLYING",
     "hp": 65,
@@ -2316,6 +2494,7 @@
   {
     "id": 179,
     "name": "Mareep",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MAREEP.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 55,
@@ -2329,6 +2508,7 @@
   {
     "id": 180,
     "name": "Flaaffy",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FLAAFFY.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 70,
@@ -2342,6 +2522,7 @@
   {
     "id": 181,
     "name": "Ampharos",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/AMPHAROS.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 90,
@@ -2355,6 +2536,7 @@
   {
     "id": 182,
     "name": "Bellossom",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BELLOSSOM.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 75,
@@ -2368,6 +2550,7 @@
   {
     "id": 183,
     "name": "Marill",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MARILL.png",
     "primary_type": "WATER",
     "secondary_type": "FAIRY",
     "hp": 70,
@@ -2381,6 +2564,7 @@
   {
     "id": 184,
     "name": "Azumarill",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/AZUMARILL.png",
     "primary_type": "WATER",
     "secondary_type": "FAIRY",
     "hp": 100,
@@ -2394,6 +2578,7 @@
   {
     "id": 185,
     "name": "Sudowoodo",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SUDOWOODO.png",
     "primary_type": "ROCK",
     "secondary_type": "ROCK",
     "hp": 70,
@@ -2407,6 +2592,7 @@
   {
     "id": 186,
     "name": "Politoed",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/POLITOED.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 90,
@@ -2420,6 +2606,7 @@
   {
     "id": 187,
     "name": "Hoppip",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HOPPIP.png",
     "primary_type": "GRASS",
     "secondary_type": "FLYING",
     "hp": 35,
@@ -2433,6 +2620,7 @@
   {
     "id": 188,
     "name": "Skiploom",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SKIPLOOM.png",
     "primary_type": "GRASS",
     "secondary_type": "FLYING",
     "hp": 55,
@@ -2446,6 +2634,7 @@
   {
     "id": 189,
     "name": "Jumpluff",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/JUMPLUFF.png",
     "primary_type": "GRASS",
     "secondary_type": "FLYING",
     "hp": 75,
@@ -2459,6 +2648,7 @@
   {
     "id": 190,
     "name": "Aipom",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/AIPOM.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 55,
@@ -2472,6 +2662,7 @@
   {
     "id": 191,
     "name": "Sunkern",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SUNKERN.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 30,
@@ -2485,6 +2676,7 @@
   {
     "id": 192,
     "name": "Sunflora",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SUNFLORA.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 75,
@@ -2498,6 +2690,7 @@
   {
     "id": 193,
     "name": "Yanma",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/YANMA.png",
     "primary_type": "BUG",
     "secondary_type": "FLYING",
     "hp": 65,
@@ -2511,6 +2704,7 @@
   {
     "id": 194,
     "name": "Wooper",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WOOPER.png",
     "primary_type": "WATER",
     "secondary_type": "GROUND",
     "hp": 55,
@@ -2524,6 +2718,7 @@
   {
     "id": 195,
     "name": "Quagsire",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/QUAGSIRE.png",
     "primary_type": "WATER",
     "secondary_type": "GROUND",
     "hp": 95,
@@ -2537,6 +2732,7 @@
   {
     "id": 196,
     "name": "Espeon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ESPEON.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 65,
@@ -2550,6 +2746,7 @@
   {
     "id": 197,
     "name": "Umbreon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/UMBREON.png",
     "primary_type": "DARK",
     "secondary_type": "DARK",
     "hp": 95,
@@ -2563,6 +2760,7 @@
   {
     "id": 198,
     "name": "Murkrow",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MURKROW.png",
     "primary_type": "DARK",
     "secondary_type": "FLYING",
     "hp": 60,
@@ -2576,6 +2774,7 @@
   {
     "id": 199,
     "name": "Slowking",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SLOWKING.png",
     "primary_type": "WATER",
     "secondary_type": "PSYCHIC",
     "hp": 95,
@@ -2589,6 +2788,7 @@
   {
     "id": 200,
     "name": "Misdreavus",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MISDREAVUS.png",
     "primary_type": "GHOST",
     "secondary_type": "GHOST",
     "hp": 60,
@@ -2602,6 +2802,7 @@
   {
     "id": 201,
     "name": "Unown",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/UNOWN.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 48,
@@ -2615,6 +2816,7 @@
   {
     "id": 202,
     "name": "Wobbuffet",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WOBBUFFET.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 190,
@@ -2628,6 +2830,7 @@
   {
     "id": 203,
     "name": "Girafarig",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GIRAFARIG.png",
     "primary_type": "NORMAL",
     "secondary_type": "PSYCHIC",
     "hp": 70,
@@ -2641,6 +2844,7 @@
   {
     "id": 204,
     "name": "Pineco",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PINECO.png",
     "primary_type": "BUG",
     "secondary_type": "BUG",
     "hp": 50,
@@ -2654,6 +2858,7 @@
   {
     "id": 205,
     "name": "Forretress",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FORRETRESS.png",
     "primary_type": "BUG",
     "secondary_type": "STEEL",
     "hp": 75,
@@ -2667,6 +2872,7 @@
   {
     "id": 206,
     "name": "Dunsparce",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DUNSPARCE.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 100,
@@ -2680,6 +2886,7 @@
   {
     "id": 207,
     "name": "Gligar",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GLIGAR.png",
     "primary_type": "GROUND",
     "secondary_type": "FLYING",
     "hp": 65,
@@ -2693,6 +2900,7 @@
   {
     "id": 208,
     "name": "Steelix",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/STEELIX.png",
     "primary_type": "STEEL",
     "secondary_type": "GROUND",
     "hp": 75,
@@ -2706,6 +2914,7 @@
   {
     "id": 209,
     "name": "Snubbull",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SNUBBULL.png",
     "primary_type": "FAIRY",
     "secondary_type": "FAIRY",
     "hp": 60,
@@ -2719,6 +2928,7 @@
   {
     "id": 210,
     "name": "Granbull",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GRANBULL.png",
     "primary_type": "FAIRY",
     "secondary_type": "FAIRY",
     "hp": 90,
@@ -2732,6 +2942,7 @@
   {
     "id": 211,
     "name": "Qwilfish",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/QWILFISH.png",
     "primary_type": "WATER",
     "secondary_type": "POISON",
     "hp": 65,
@@ -2745,6 +2956,7 @@
   {
     "id": 212,
     "name": "Scizor",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SCIZOR.png",
     "primary_type": "BUG",
     "secondary_type": "STEEL",
     "hp": 70,
@@ -2758,6 +2970,7 @@
   {
     "id": 213,
     "name": "Shuckle",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SHUCKLE.png",
     "primary_type": "BUG",
     "secondary_type": "ROCK",
     "hp": 20,
@@ -2771,6 +2984,7 @@
   {
     "id": 214,
     "name": "Heracross",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HERACROSS.png",
     "primary_type": "BUG",
     "secondary_type": "FIGHTING",
     "hp": 80,
@@ -2784,6 +2998,7 @@
   {
     "id": 215,
     "name": "Sneasel",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SNEASEL.png",
     "primary_type": "DARK",
     "secondary_type": "ICE",
     "hp": 55,
@@ -2797,6 +3012,7 @@
   {
     "id": 216,
     "name": "Teddiursa",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TEDDIURSA.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 60,
@@ -2810,6 +3026,7 @@
   {
     "id": 217,
     "name": "Ursaring",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/URSARING.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 90,
@@ -2823,6 +3040,7 @@
   {
     "id": 218,
     "name": "Slugma",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SLUGMA.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 40,
@@ -2836,6 +3054,7 @@
   {
     "id": 219,
     "name": "Magcargo",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MAGCARGO.png",
     "primary_type": "FIRE",
     "secondary_type": "ROCK",
     "hp": 50,
@@ -2849,6 +3068,7 @@
   {
     "id": 220,
     "name": "Swinub",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SWINUB.png",
     "primary_type": "ICE",
     "secondary_type": "GROUND",
     "hp": 50,
@@ -2862,6 +3082,7 @@
   {
     "id": 221,
     "name": "Piloswine",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PILOSWINE.png",
     "primary_type": "ICE",
     "secondary_type": "GROUND",
     "hp": 100,
@@ -2875,6 +3096,7 @@
   {
     "id": 222,
     "name": "Corsola",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CORSOLA.png",
     "primary_type": "WATER",
     "secondary_type": "ROCK",
     "hp": 55,
@@ -2888,6 +3110,7 @@
   {
     "id": 223,
     "name": "Remoraid",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/REMORAID.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 35,
@@ -2901,6 +3124,7 @@
   {
     "id": 224,
     "name": "Octillery",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/OCTILLERY.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 75,
@@ -2914,6 +3138,7 @@
   {
     "id": 225,
     "name": "Delibird",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DELIBIRD.png",
     "primary_type": "ICE",
     "secondary_type": "FLYING",
     "hp": 45,
@@ -2927,6 +3152,7 @@
   {
     "id": 226,
     "name": "Mantine",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MANTINE.png",
     "primary_type": "WATER",
     "secondary_type": "FLYING",
     "hp": 65,
@@ -2940,6 +3166,7 @@
   {
     "id": 227,
     "name": "Skarmory",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SKARMORY.png",
     "primary_type": "STEEL",
     "secondary_type": "FLYING",
     "hp": 65,
@@ -2953,6 +3180,7 @@
   {
     "id": 228,
     "name": "Houndour",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HOUNDOUR.png",
     "primary_type": "DARK",
     "secondary_type": "FIRE",
     "hp": 45,
@@ -2966,6 +3194,7 @@
   {
     "id": 229,
     "name": "Houndoom",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HOUNDOOM.png",
     "primary_type": "DARK",
     "secondary_type": "FIRE",
     "hp": 75,
@@ -2979,6 +3208,7 @@
   {
     "id": 230,
     "name": "Kingdra",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KINGDRA.png",
     "primary_type": "WATER",
     "secondary_type": "DRAGON",
     "hp": 75,
@@ -2992,6 +3222,7 @@
   {
     "id": 231,
     "name": "Phanpy",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PHANPY.png",
     "primary_type": "GROUND",
     "secondary_type": "GROUND",
     "hp": 90,
@@ -3005,6 +3236,7 @@
   {
     "id": 232,
     "name": "Donphan",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DONPHAN.png",
     "primary_type": "GROUND",
     "secondary_type": "GROUND",
     "hp": 90,
@@ -3018,6 +3250,7 @@
   {
     "id": 233,
     "name": "Porygon2",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PORYGON2.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 85,
@@ -3031,6 +3264,7 @@
   {
     "id": 234,
     "name": "Stantler",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/STANTLER.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 73,
@@ -3044,6 +3278,7 @@
   {
     "id": 235,
     "name": "Smeargle",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SMEARGLE.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 55,
@@ -3057,6 +3292,7 @@
   {
     "id": 236,
     "name": "Tyrogue",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TYROGUE.png",
     "primary_type": "FIGHTING",
     "secondary_type": "FIGHTING",
     "hp": 35,
@@ -3070,6 +3306,7 @@
   {
     "id": 237,
     "name": "Hitmontop",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HITMONTOP.png",
     "primary_type": "FIGHTING",
     "secondary_type": "FIGHTING",
     "hp": 50,
@@ -3083,6 +3320,7 @@
   {
     "id": 238,
     "name": "Smoochum",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SMOOCHUM.png",
     "primary_type": "ICE",
     "secondary_type": "PSYCHIC",
     "hp": 45,
@@ -3096,6 +3334,7 @@
   {
     "id": 239,
     "name": "Elekid",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ELEKID.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 45,
@@ -3109,6 +3348,7 @@
   {
     "id": 240,
     "name": "Magby",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MAGBY.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 45,
@@ -3122,6 +3362,7 @@
   {
     "id": 241,
     "name": "Miltank",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MILTANK.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 95,
@@ -3135,6 +3376,7 @@
   {
     "id": 242,
     "name": "Blissey",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BLISSEY.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 255,
@@ -3148,6 +3390,7 @@
   {
     "id": 243,
     "name": "Raikou",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/RAIKOU.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 90,
@@ -3161,6 +3404,7 @@
   {
     "id": 244,
     "name": "Entei",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ENTEI.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 115,
@@ -3174,6 +3418,7 @@
   {
     "id": 245,
     "name": "Suicune",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SUICUNE.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 100,
@@ -3187,6 +3432,7 @@
   {
     "id": 246,
     "name": "Larvitar",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LARVITAR.png",
     "primary_type": "ROCK",
     "secondary_type": "GROUND",
     "hp": 50,
@@ -3200,6 +3446,7 @@
   {
     "id": 247,
     "name": "Pupitar",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PUPITAR.png",
     "primary_type": "ROCK",
     "secondary_type": "GROUND",
     "hp": 70,
@@ -3213,6 +3460,7 @@
   {
     "id": 248,
     "name": "Tyranitar",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TYRANITAR.png",
     "primary_type": "ROCK",
     "secondary_type": "DARK",
     "hp": 100,
@@ -3226,6 +3474,7 @@
   {
     "id": 249,
     "name": "Lugia",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LUGIA.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "FLYING",
     "hp": 106,
@@ -3239,6 +3488,7 @@
   {
     "id": 250,
     "name": "Ho-Oh",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HOOH.png",
     "primary_type": "FIRE",
     "secondary_type": "FLYING",
     "hp": 106,
@@ -3252,6 +3502,7 @@
   {
     "id": 251,
     "name": "Celebi",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CELEBI.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "GRASS",
     "hp": 100,
@@ -3265,6 +3516,7 @@
   {
     "id": 252,
     "name": "Azurill",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/AZURILL.png",
     "primary_type": "NORMAL",
     "secondary_type": "FAIRY",
     "hp": 50,
@@ -3278,6 +3530,7 @@
   {
     "id": 253,
     "name": "Wynaut",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WYNAUT.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 95,
@@ -3291,6 +3544,7 @@
   {
     "id": 254,
     "name": "Ambipom",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/AMBIPOM.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 75,
@@ -3304,6 +3558,7 @@
   {
     "id": 255,
     "name": "Mismagius",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MISMAGIUS.png",
     "primary_type": "GHOST",
     "secondary_type": "GHOST",
     "hp": 60,
@@ -3317,6 +3572,7 @@
   {
     "id": 256,
     "name": "Honchkrow",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HONCHKROW.png",
     "primary_type": "DARK",
     "secondary_type": "FLYING",
     "hp": 100,
@@ -3330,6 +3586,7 @@
   {
     "id": 257,
     "name": "Bonsly",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BONSLY.png",
     "primary_type": "ROCK",
     "secondary_type": "ROCK",
     "hp": 50,
@@ -3343,6 +3600,7 @@
   {
     "id": 258,
     "name": "Mime Jr.",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MIMEJR.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "FAIRY",
     "hp": 20,
@@ -3356,6 +3614,7 @@
   {
     "id": 259,
     "name": "Happiny",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HAPPINY.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 100,
@@ -3369,6 +3628,7 @@
   {
     "id": 260,
     "name": "Munchlax",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MUNCHLAX.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 135,
@@ -3382,6 +3642,7 @@
   {
     "id": 261,
     "name": "Mantyke",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MANTYKE.png",
     "primary_type": "WATER",
     "secondary_type": "FLYING",
     "hp": 45,
@@ -3395,6 +3656,7 @@
   {
     "id": 262,
     "name": "Weavile",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WEAVILE.png",
     "primary_type": "DARK",
     "secondary_type": "ICE",
     "hp": 70,
@@ -3408,6 +3670,7 @@
   {
     "id": 263,
     "name": "Magnezone",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MAGNEZONE.png",
     "primary_type": "STEEL",
     "secondary_type": "ELECTRIC",
     "hp": 70,
@@ -3421,6 +3684,7 @@
   {
     "id": 264,
     "name": "Lickilicky",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LICKILICKY.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 110,
@@ -3434,6 +3698,7 @@
   {
     "id": 265,
     "name": "Rhyperior",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/RHYPERIOR.png",
     "primary_type": "GROUND",
     "secondary_type": "ROCK",
     "hp": 115,
@@ -3447,6 +3712,7 @@
   {
     "id": 266,
     "name": "Tangrowth",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TANGROWTH.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 100,
@@ -3460,6 +3726,7 @@
   {
     "id": 267,
     "name": "Electivire",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ELECTIVIRE.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 75,
@@ -3473,6 +3740,7 @@
   {
     "id": 268,
     "name": "Magmortar",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MAGMORTAR.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 75,
@@ -3486,6 +3754,7 @@
   {
     "id": 269,
     "name": "Togekiss",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TOGEKISS.png",
     "primary_type": "FAIRY",
     "secondary_type": "FLYING",
     "hp": 85,
@@ -3499,6 +3768,7 @@
   {
     "id": 270,
     "name": "Yanmega",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/YANMEGA.png",
     "primary_type": "BUG",
     "secondary_type": "FLYING",
     "hp": 86,
@@ -3512,6 +3782,7 @@
   {
     "id": 271,
     "name": "Leafeon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LEAFEON.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 65,
@@ -3525,6 +3796,7 @@
   {
     "id": 272,
     "name": "Glaceon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GLACEON.png",
     "primary_type": "ICE",
     "secondary_type": "ICE",
     "hp": 65,
@@ -3538,6 +3810,7 @@
   {
     "id": 273,
     "name": "Gliscor",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GLISCOR.png",
     "primary_type": "GROUND",
     "secondary_type": "FLYING",
     "hp": 75,
@@ -3551,6 +3824,7 @@
   {
     "id": 274,
     "name": "Mamoswine",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MAMOSWINE.png",
     "primary_type": "ICE",
     "secondary_type": "GROUND",
     "hp": 110,
@@ -3564,6 +3838,7 @@
   {
     "id": 275,
     "name": "Porygon-Z",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PORYGONZ.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 85,
@@ -3577,6 +3852,7 @@
   {
     "id": 276,
     "name": "Treecko",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TREECKO.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 40,
@@ -3590,6 +3866,7 @@
   {
     "id": 277,
     "name": "Grovyle",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GROVYLE.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 50,
@@ -3603,6 +3880,7 @@
   {
     "id": 278,
     "name": "Sceptile",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SCEPTILE.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 70,
@@ -3616,6 +3894,7 @@
   {
     "id": 279,
     "name": "Torchic",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TORCHIC.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 45,
@@ -3629,6 +3908,7 @@
   {
     "id": 280,
     "name": "Combusken",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/COMBUSKEN.png",
     "primary_type": "FIRE",
     "secondary_type": "FIGHTING",
     "hp": 60,
@@ -3642,6 +3922,7 @@
   {
     "id": 281,
     "name": "Blaziken",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BLAZIKEN.png",
     "primary_type": "FIRE",
     "secondary_type": "FIGHTING",
     "hp": 80,
@@ -3655,6 +3936,7 @@
   {
     "id": 282,
     "name": "Mudkip",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MUDKIP.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 50,
@@ -3668,6 +3950,7 @@
   {
     "id": 283,
     "name": "Marshtomp",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MARSHTOMP.png",
     "primary_type": "WATER",
     "secondary_type": "GROUND",
     "hp": 70,
@@ -3681,6 +3964,7 @@
   {
     "id": 284,
     "name": "Swampert",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SWAMPERT.png",
     "primary_type": "WATER",
     "secondary_type": "GROUND",
     "hp": 100,
@@ -3694,6 +3978,7 @@
   {
     "id": 285,
     "name": "Ralts",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/RALTS.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "FAIRY",
     "hp": 28,
@@ -3707,6 +3992,7 @@
   {
     "id": 286,
     "name": "Kirlia",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KIRLIA.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "FAIRY",
     "hp": 38,
@@ -3720,6 +4006,7 @@
   {
     "id": 287,
     "name": "Gardevoir",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GARDEVOIR.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "FAIRY",
     "hp": 68,
@@ -3733,6 +4020,7 @@
   {
     "id": 288,
     "name": "Gallade",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GALLADE.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "FIGHTING",
     "hp": 68,
@@ -3746,6 +4034,7 @@
   {
     "id": 289,
     "name": "Shedinja",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SHEDINJA.png",
     "primary_type": "BUG",
     "secondary_type": "GHOST",
     "hp": 1,
@@ -3759,6 +4048,7 @@
   {
     "id": 290,
     "name": "Kecleon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KECLEON.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 60,
@@ -3772,6 +4062,7 @@
   {
     "id": 291,
     "name": "Beldum",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BELDUM.png",
     "primary_type": "STEEL",
     "secondary_type": "PSYCHIC",
     "hp": 40,
@@ -3785,6 +4076,7 @@
   {
     "id": 292,
     "name": "Metang",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/METANG.png",
     "primary_type": "STEEL",
     "secondary_type": "PSYCHIC",
     "hp": 60,
@@ -3798,6 +4090,7 @@
   {
     "id": 293,
     "name": "Metagross",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/METAGROSS.png",
     "primary_type": "STEEL",
     "secondary_type": "PSYCHIC",
     "hp": 80,
@@ -3811,6 +4104,7 @@
   {
     "id": 294,
     "name": "Bidoof",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BIDOOF.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 59,
@@ -3824,6 +4118,7 @@
   {
     "id": 295,
     "name": "Spiritomb",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SPIRITOMB.png",
     "primary_type": "DARK",
     "secondary_type": "GHOST",
     "hp": 50,
@@ -3837,6 +4132,7 @@
   {
     "id": 296,
     "name": "Lucario",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LUCARIO.png",
     "primary_type": "FIGHTING",
     "secondary_type": "STEEL",
     "hp": 70,
@@ -3850,6 +4146,7 @@
   {
     "id": 297,
     "name": "Gible",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GIBLE.png",
     "primary_type": "DRAGON",
     "secondary_type": "GROUND",
     "hp": 58,
@@ -3863,6 +4160,7 @@
   {
     "id": 298,
     "name": "Gabite",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GABITE.png",
     "primary_type": "DRAGON",
     "secondary_type": "GROUND",
     "hp": 68,
@@ -3876,6 +4174,7 @@
   {
     "id": 299,
     "name": "Garchomp",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GARCHOMP.png",
     "primary_type": "DRAGON",
     "secondary_type": "GROUND",
     "hp": 108,
@@ -3889,6 +4188,7 @@
   {
     "id": 300,
     "name": "Mawile",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MAWILE.png",
     "primary_type": "STEEL",
     "secondary_type": "FAIRY",
     "hp": 50,
@@ -3902,6 +4202,7 @@
   {
     "id": 301,
     "name": "Lileep",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LILEEP.png",
     "primary_type": "ROCK",
     "secondary_type": "GRASS",
     "hp": 66,
@@ -3915,6 +4216,7 @@
   {
     "id": 302,
     "name": "Cradily",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CRADILY.png",
     "primary_type": "ROCK",
     "secondary_type": "GRASS",
     "hp": 86,
@@ -3928,6 +4230,7 @@
   {
     "id": 303,
     "name": "Anorith",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ANORITH.png",
     "primary_type": "ROCK",
     "secondary_type": "BUG",
     "hp": 45,
@@ -3941,6 +4244,7 @@
   {
     "id": 304,
     "name": "Armaldo",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ARMALDO.png",
     "primary_type": "ROCK",
     "secondary_type": "BUG",
     "hp": 75,
@@ -3954,6 +4258,7 @@
   {
     "id": 305,
     "name": "Cranidos",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CRANIDOS.png",
     "primary_type": "ROCK",
     "secondary_type": "ROCK",
     "hp": 67,
@@ -3967,6 +4272,7 @@
   {
     "id": 306,
     "name": "Rampardos",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/RAMPARDOS.png",
     "primary_type": "ROCK",
     "secondary_type": "ROCK",
     "hp": 97,
@@ -3980,6 +4286,7 @@
   {
     "id": 307,
     "name": "Shieldon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SHIELDON.png",
     "primary_type": "ROCK",
     "secondary_type": "STEEL",
     "hp": 30,
@@ -3993,6 +4300,7 @@
   {
     "id": 308,
     "name": "Bastiodon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BASTIODON.png",
     "primary_type": "ROCK",
     "secondary_type": "STEEL",
     "hp": 60,
@@ -4006,6 +4314,7 @@
   {
     "id": 309,
     "name": "Slaking",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SLAKING.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 150,
@@ -4019,6 +4328,7 @@
   {
     "id": 310,
     "name": "Absol",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ABSOL.png",
     "primary_type": "DARK",
     "secondary_type": "DARK",
     "hp": 65,
@@ -4032,6 +4342,7 @@
   {
     "id": 311,
     "name": "Duskull",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DUSKULL.png",
     "primary_type": "GHOST",
     "secondary_type": "GHOST",
     "hp": 20,
@@ -4045,6 +4356,7 @@
   {
     "id": 312,
     "name": "Dusclops",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DUSCLOPS.png",
     "primary_type": "GHOST",
     "secondary_type": "GHOST",
     "hp": 40,
@@ -4058,6 +4370,7 @@
   {
     "id": 313,
     "name": "Dusknoir",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DUSKNOIR.png",
     "primary_type": "GHOST",
     "secondary_type": "GHOST",
     "hp": 45,
@@ -4071,6 +4384,7 @@
   {
     "id": 314,
     "name": "Wailord",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WAILORD.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 170,
@@ -4084,6 +4398,7 @@
   {
     "id": 315,
     "name": "Arceus",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ARCEUS.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 120,
@@ -4097,6 +4412,7 @@
   {
     "id": 316,
     "name": "Turtwig",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TURTWIG.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 55,
@@ -4110,6 +4426,7 @@
   {
     "id": 317,
     "name": "Grotle",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GROTLE.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 75,
@@ -4123,6 +4440,7 @@
   {
     "id": 318,
     "name": "Torterra",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TORTERRA.png",
     "primary_type": "GRASS",
     "secondary_type": "GROUND",
     "hp": 95,
@@ -4136,6 +4454,7 @@
   {
     "id": 319,
     "name": "Chimchar",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CHIMCHAR.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 44,
@@ -4149,6 +4468,7 @@
   {
     "id": 320,
     "name": "Monferno",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MONFERNO.png",
     "primary_type": "FIRE",
     "secondary_type": "FIGHTING",
     "hp": 64,
@@ -4162,6 +4482,7 @@
   {
     "id": 321,
     "name": "Infernape",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/INFERNAPE.png",
     "primary_type": "FIRE",
     "secondary_type": "FIGHTING",
     "hp": 76,
@@ -4175,6 +4496,7 @@
   {
     "id": 322,
     "name": "Piplup",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PIPLUP.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 53,
@@ -4188,6 +4510,7 @@
   {
     "id": 323,
     "name": "Prinplup",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PRINPLUP.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 64,
@@ -4201,6 +4524,7 @@
   {
     "id": 324,
     "name": "Empoleon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/EMPOLEON.png",
     "primary_type": "WATER",
     "secondary_type": "STEEL",
     "hp": 84,
@@ -4214,6 +4538,7 @@
   {
     "id": 325,
     "name": "Nosepass",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/NOSEPASS.png",
     "primary_type": "ROCK",
     "secondary_type": "ROCK",
     "hp": 30,
@@ -4227,6 +4552,7 @@
   {
     "id": 326,
     "name": "Probopass",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PROBOPASS.png",
     "primary_type": "ROCK",
     "secondary_type": "STEEL",
     "hp": 60,
@@ -4240,6 +4566,7 @@
   {
     "id": 327,
     "name": "Honedge",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HONEDGE.png",
     "primary_type": "STEEL",
     "secondary_type": "GHOST",
     "hp": 45,
@@ -4253,6 +4580,7 @@
   {
     "id": 328,
     "name": "Doublade",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DOUBLADE.png",
     "primary_type": "STEEL",
     "secondary_type": "GHOST",
     "hp": 59,
@@ -4266,6 +4594,7 @@
   {
     "id": 329,
     "name": "Aegislash",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/AEGISLASH.png",
     "primary_type": "STEEL",
     "secondary_type": "GHOST",
     "hp": 60,
@@ -4279,6 +4608,7 @@
   {
     "id": 330,
     "name": "Pawniard",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PAWNIARD.png",
     "primary_type": "DARK",
     "secondary_type": "STEEL",
     "hp": 45,
@@ -4292,6 +4622,7 @@
   {
     "id": 331,
     "name": "Bisharp",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BISHARP.png",
     "primary_type": "DARK",
     "secondary_type": "STEEL",
     "hp": 65,
@@ -4305,6 +4636,7 @@
   {
     "id": 332,
     "name": "Luxray",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LUXRAY.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 80,
@@ -4318,6 +4650,7 @@
   {
     "id": 333,
     "name": "Aggron",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/AGGRON.png",
     "primary_type": "STEEL",
     "secondary_type": "ROCK",
     "hp": 70,
@@ -4331,6 +4664,7 @@
   {
     "id": 334,
     "name": "Flygon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FLYGON.png",
     "primary_type": "GROUND",
     "secondary_type": "DRAGON",
     "hp": 80,
@@ -4344,6 +4678,7 @@
   {
     "id": 335,
     "name": "Milotic",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MILOTIC.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 95,
@@ -4357,6 +4692,7 @@
   {
     "id": 336,
     "name": "Salamence",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SALAMENCE.png",
     "primary_type": "DRAGON",
     "secondary_type": "FLYING",
     "hp": 95,
@@ -4370,6 +4706,7 @@
   {
     "id": 337,
     "name": "Klinklang",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KLINKLANG.png",
     "primary_type": "STEEL",
     "secondary_type": "STEEL",
     "hp": 60,
@@ -4383,6 +4720,7 @@
   {
     "id": 338,
     "name": "Zoroark",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ZOROARK.png",
     "primary_type": "DARK",
     "secondary_type": "DARK",
     "hp": 60,
@@ -4396,6 +4734,7 @@
   {
     "id": 339,
     "name": "Sylveon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SYLVEON.png",
     "primary_type": "FAIRY",
     "secondary_type": "FAIRY",
     "hp": 95,
@@ -4409,6 +4748,7 @@
   {
     "id": 340,
     "name": "Kyogre",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KYOGRE.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 100,
@@ -4422,6 +4762,7 @@
   {
     "id": 341,
     "name": "Groudon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GROUDON.png",
     "primary_type": "GROUND",
     "secondary_type": "GROUND",
     "hp": 100,
@@ -4435,6 +4776,7 @@
   {
     "id": 342,
     "name": "Rayquaza",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/RAYQUAZA.png",
     "primary_type": "DRAGON",
     "secondary_type": "FLYING",
     "hp": 105,
@@ -4448,6 +4790,7 @@
   {
     "id": 343,
     "name": "Dialga",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DIALGA.png",
     "primary_type": "STEEL",
     "secondary_type": "DRAGON",
     "hp": 100,
@@ -4461,6 +4804,7 @@
   {
     "id": 344,
     "name": "Palkia",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PALKIA.png",
     "primary_type": "WATER",
     "secondary_type": "DRAGON",
     "hp": 90,
@@ -4474,6 +4818,7 @@
   {
     "id": 345,
     "name": "Giratina",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GIRATINA.png",
     "primary_type": "GHOST",
     "secondary_type": "DRAGON",
     "hp": 150,
@@ -4487,6 +4832,7 @@
   {
     "id": 346,
     "name": "Regigigas",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/REGIGIGAS.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 110,
@@ -4500,6 +4846,7 @@
   {
     "id": 347,
     "name": "Darkrai",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DARKRAI.png",
     "primary_type": "DARK",
     "secondary_type": "DARK",
     "hp": 70,
@@ -4513,6 +4860,7 @@
   {
     "id": 348,
     "name": "Genesect",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GENESECT.png",
     "primary_type": "BUG",
     "secondary_type": "STEEL",
     "hp": 71,
@@ -4526,6 +4874,7 @@
   {
     "id": 349,
     "name": "Reshiram",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/RESHIRAM.png",
     "primary_type": "DRAGON",
     "secondary_type": "FIRE",
     "hp": 100,
@@ -4539,6 +4888,7 @@
   {
     "id": 350,
     "name": "Zekrom",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ZEKROM.png",
     "primary_type": "DRAGON",
     "secondary_type": "ELECTRIC",
     "hp": 100,
@@ -4552,6 +4902,7 @@
   {
     "id": 351,
     "name": "Kyurem",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KYUREM.png",
     "primary_type": "DRAGON",
     "secondary_type": "ICE",
     "hp": 125,
@@ -4565,6 +4916,7 @@
   {
     "id": 352,
     "name": "Roserade",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ROSERADE.png",
     "primary_type": "GRASS",
     "secondary_type": "POISON",
     "hp": 60,
@@ -4578,6 +4930,7 @@
   {
     "id": 353,
     "name": "Drifblim",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DRIFBLIM.png",
     "primary_type": "GHOST",
     "secondary_type": "FLYING",
     "hp": 150,
@@ -4591,6 +4944,7 @@
   {
     "id": 354,
     "name": "Lopunny",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LOPUNNY.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 65,
@@ -4604,6 +4958,7 @@
   {
     "id": 355,
     "name": "Breloom",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BRELOOM.png",
     "primary_type": "GRASS",
     "secondary_type": "FIGHTING",
     "hp": 60,
@@ -4617,6 +4972,7 @@
   {
     "id": 356,
     "name": "Ninjask",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/NINJASK.png",
     "primary_type": "BUG",
     "secondary_type": "FLYING",
     "hp": 61,
@@ -4630,6 +4986,7 @@
   {
     "id": 357,
     "name": "Banette",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BANETTE.png",
     "primary_type": "GHOST",
     "secondary_type": "GHOST",
     "hp": 64,
@@ -4643,6 +5000,7 @@
   {
     "id": 358,
     "name": "Rotom",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ROTOM.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "GHOST",
     "hp": 50,
@@ -4656,6 +5014,7 @@
   {
     "id": 359,
     "name": "Reuniclus",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/REUNICLUS.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 110,
@@ -4669,6 +5028,7 @@
   {
     "id": 360,
     "name": "Whimsicott",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WHIMSICOTT.png",
     "primary_type": "GRASS",
     "secondary_type": "FAIRY",
     "hp": 60,
@@ -4682,6 +5042,7 @@
   {
     "id": 361,
     "name": "Krookodile",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KROOKODILE.png",
     "primary_type": "GROUND",
     "secondary_type": "DARK",
     "hp": 95,
@@ -4695,6 +5056,7 @@
   {
     "id": 362,
     "name": "Cofagrigus",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/COFAGRIGUS.png",
     "primary_type": "GHOST",
     "secondary_type": "GHOST",
     "hp": 58,
@@ -4708,6 +5070,7 @@
   {
     "id": 363,
     "name": "Galvantula",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GALVANTULA.png",
     "primary_type": "BUG",
     "secondary_type": "ELECTRIC",
     "hp": 70,
@@ -4721,6 +5084,7 @@
   {
     "id": 364,
     "name": "Ferrothorn",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FERROTHORN.png",
     "primary_type": "STEEL",
     "secondary_type": "GRASS",
     "hp": 74,
@@ -4734,6 +5098,7 @@
   {
     "id": 365,
     "name": "Litwick",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LITWICK.png",
     "primary_type": "GHOST",
     "secondary_type": "FIRE",
     "hp": 50,
@@ -4747,6 +5112,7 @@
   {
     "id": 366,
     "name": "Lampent",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LAMPENT.png",
     "primary_type": "GHOST",
     "secondary_type": "FIRE",
     "hp": 60,
@@ -4760,6 +5126,7 @@
   {
     "id": 367,
     "name": "Chandelure",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CHANDELURE.png",
     "primary_type": "GHOST",
     "secondary_type": "FIRE",
     "hp": 60,
@@ -4773,6 +5140,7 @@
   {
     "id": 368,
     "name": "Haxorus",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HAXORUS.png",
     "primary_type": "DRAGON",
     "secondary_type": "DRAGON",
     "hp": 76,
@@ -4786,6 +5154,7 @@
   {
     "id": 369,
     "name": "Golurk",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GOLURK.png",
     "primary_type": "GROUND",
     "secondary_type": "GHOST",
     "hp": 89,
@@ -4799,6 +5168,7 @@
   {
     "id": 370,
     "name": "Pyukumuku",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PYUKUMUKU.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 55,
@@ -4812,6 +5182,7 @@
   {
     "id": 371,
     "name": "Klefki",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KLEFKI.png",
     "primary_type": "STEEL",
     "secondary_type": "FAIRY",
     "hp": 57,
@@ -4825,6 +5196,7 @@
   {
     "id": 372,
     "name": "Talonflame",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TALONFLAME.png",
     "primary_type": "FIRE",
     "secondary_type": "FLYING",
     "hp": 78,
@@ -4838,6 +5210,7 @@
   {
     "id": 373,
     "name": "Mimikyu",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MIMIKYU.png",
     "primary_type": "GHOST",
     "secondary_type": "FAIRY",
     "hp": 55,
@@ -4851,6 +5224,7 @@
   {
     "id": 374,
     "name": "Volcarona",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/VOLCARONA.png",
     "primary_type": "BUG",
     "secondary_type": "FIRE",
     "hp": 85,
@@ -4864,6 +5238,7 @@
   {
     "id": 375,
     "name": "Deino",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DEINO.png",
     "primary_type": "DARK",
     "secondary_type": "DRAGON",
     "hp": 52,
@@ -4877,6 +5252,7 @@
   {
     "id": 376,
     "name": "Zweilous",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ZWEILOUS.png",
     "primary_type": "DARK",
     "secondary_type": "DRAGON",
     "hp": 72,
@@ -4890,6 +5266,7 @@
   {
     "id": 377,
     "name": "Hydreigon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HYDREIGON.png",
     "primary_type": "DARK",
     "secondary_type": "DRAGON",
     "hp": 92,
@@ -4903,6 +5280,7 @@
   {
     "id": 378,
     "name": "Latias",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LATIAS.png",
     "primary_type": "DRAGON",
     "secondary_type": "PSYCHIC",
     "hp": 80,
@@ -4916,6 +5294,7 @@
   {
     "id": 379,
     "name": "Latios",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LATIOS.png",
     "primary_type": "DRAGON",
     "secondary_type": "PSYCHIC",
     "hp": 80,
@@ -4929,6 +5308,7 @@
   {
     "id": 380,
     "name": "Deoxys",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DEOXYS.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 50,
@@ -4942,6 +5322,7 @@
   {
     "id": 381,
     "name": "Jirachi",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/JIRACHI.png",
     "primary_type": "STEEL",
     "secondary_type": "PSYCHIC",
     "hp": 100,
@@ -4955,6 +5336,7 @@
   {
     "id": 382,
     "name": "Nincada",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/NINCADA.png",
     "primary_type": "BUG",
     "secondary_type": "GROUND",
     "hp": 31,
@@ -4968,6 +5350,7 @@
   {
     "id": 383,
     "name": "Bibarel",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BIBAREL.png",
     "primary_type": "NORMAL",
     "secondary_type": "WATER",
     "hp": 79,
@@ -4981,6 +5364,7 @@
   {
     "id": 384,
     "name": "Riolu",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/RIOLU.png",
     "primary_type": "FIGHTING",
     "secondary_type": "FIGHTING",
     "hp": 40,
@@ -4994,6 +5378,7 @@
   {
     "id": 385,
     "name": "Slakoth",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SLAKOTH.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 60,
@@ -5007,6 +5392,7 @@
   {
     "id": 386,
     "name": "Vigoroth",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/VIGOROTH.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 80,
@@ -5020,6 +5406,7 @@
   {
     "id": 387,
     "name": "Wailmer",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WAILMER.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 130,
@@ -5033,6 +5420,7 @@
   {
     "id": 388,
     "name": "Shinx",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SHINX.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 45,
@@ -5046,6 +5434,7 @@
   {
     "id": 389,
     "name": "Luxio",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LUXIO.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 60,
@@ -5059,6 +5448,7 @@
   {
     "id": 390,
     "name": "Aron",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ARON.png",
     "primary_type": "STEEL",
     "secondary_type": "ROCK",
     "hp": 50,
@@ -5072,6 +5462,7 @@
   {
     "id": 391,
     "name": "Lairon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LAIRON.png",
     "primary_type": "STEEL",
     "secondary_type": "ROCK",
     "hp": 60,
@@ -5085,6 +5476,7 @@
   {
     "id": 392,
     "name": "Trapinch",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TRAPINCH.png",
     "primary_type": "GROUND",
     "secondary_type": "GROUND",
     "hp": 45,
@@ -5098,6 +5490,7 @@
   {
     "id": 393,
     "name": "Vibrava",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/VIBRAVA.png",
     "primary_type": "GROUND",
     "secondary_type": "DRAGON",
     "hp": 50,
@@ -5111,6 +5504,7 @@
   {
     "id": 394,
     "name": "Feebas",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FEEBAS.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 20,
@@ -5124,6 +5518,7 @@
   {
     "id": 395,
     "name": "Bagon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BAGON.png",
     "primary_type": "DRAGON",
     "secondary_type": "DRAGON",
     "hp": 45,
@@ -5137,6 +5532,7 @@
   {
     "id": 396,
     "name": "Shelgon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SHELGON.png",
     "primary_type": "DRAGON",
     "secondary_type": "DRAGON",
     "hp": 65,
@@ -5150,6 +5546,7 @@
   {
     "id": 397,
     "name": "Klink",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KLINK.png",
     "primary_type": "STEEL",
     "secondary_type": "STEEL",
     "hp": 40,
@@ -5163,6 +5560,7 @@
   {
     "id": 398,
     "name": "Klang",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KLANG.png",
     "primary_type": "STEEL",
     "secondary_type": "STEEL",
     "hp": 60,
@@ -5176,6 +5574,7 @@
   {
     "id": 399,
     "name": "Zorua",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ZORUA.png",
     "primary_type": "DARK",
     "secondary_type": "DARK",
     "hp": 40,
@@ -5189,6 +5588,7 @@
   {
     "id": 400,
     "name": "Budew",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BUDEW.png",
     "primary_type": "GRASS",
     "secondary_type": "POISON",
     "hp": 40,
@@ -5202,6 +5602,7 @@
   {
     "id": 401,
     "name": "Roselia",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ROSELIA.png",
     "primary_type": "GRASS",
     "secondary_type": "POISON",
     "hp": 50,
@@ -5215,6 +5616,7 @@
   {
     "id": 402,
     "name": "Drifloon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DRIFLOON.png",
     "primary_type": "GHOST",
     "secondary_type": "FLYING",
     "hp": 90,
@@ -5228,6 +5630,7 @@
   {
     "id": 403,
     "name": "Buneary",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BUNEARY.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 55,
@@ -5241,6 +5644,7 @@
   {
     "id": 404,
     "name": "Shroomish",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SHROOMISH.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 60,
@@ -5254,6 +5658,7 @@
   {
     "id": 405,
     "name": "Shuppet",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SHUPPET.png",
     "primary_type": "GHOST",
     "secondary_type": "GHOST",
     "hp": 44,
@@ -5267,6 +5672,7 @@
   {
     "id": 406,
     "name": "Solosis",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SOLOSIS.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 45,
@@ -5280,6 +5686,7 @@
   {
     "id": 407,
     "name": "Duosion",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DUOSION.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 65,
@@ -5293,6 +5700,7 @@
   {
     "id": 408,
     "name": "Cottonee",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/COTTONEE.png",
     "primary_type": "GRASS",
     "secondary_type": "FAIRY",
     "hp": 40,
@@ -5306,6 +5714,7 @@
   {
     "id": 409,
     "name": "Sandile",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SANDILE.png",
     "primary_type": "GROUND",
     "secondary_type": "DARK",
     "hp": 50,
@@ -5319,6 +5728,7 @@
   {
     "id": 410,
     "name": "Krokorok",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KROKOROK.png",
     "primary_type": "GROUND",
     "secondary_type": "DARK",
     "hp": 60,
@@ -5332,6 +5742,7 @@
   {
     "id": 411,
     "name": "Yamask",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/YAMASK.png",
     "primary_type": "GHOST",
     "secondary_type": "GHOST",
     "hp": 38,
@@ -5345,6 +5756,7 @@
   {
     "id": 412,
     "name": "Joltik",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/JOLTIK.png",
     "primary_type": "BUG",
     "secondary_type": "ELECTRIC",
     "hp": 50,
@@ -5358,6 +5770,7 @@
   {
     "id": 413,
     "name": "Ferroseed",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FERROSEED.png",
     "primary_type": "STEEL",
     "secondary_type": "GRASS",
     "hp": 44,
@@ -5371,6 +5784,7 @@
   {
     "id": 414,
     "name": "Axew",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/AXEW.png",
     "primary_type": "DRAGON",
     "secondary_type": "DRAGON",
     "hp": 46,
@@ -5384,6 +5798,7 @@
   {
     "id": 415,
     "name": "Fraxure",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FRAXURE.png",
     "primary_type": "DRAGON",
     "secondary_type": "DRAGON",
     "hp": 66,
@@ -5397,6 +5812,7 @@
   {
     "id": 416,
     "name": "Golett",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GOLETT.png",
     "primary_type": "GROUND",
     "secondary_type": "GHOST",
     "hp": 59,
@@ -5410,6 +5826,7 @@
   {
     "id": 417,
     "name": "Fletchling",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FLETCHLING.png",
     "primary_type": "NORMAL",
     "secondary_type": "FLYING",
     "hp": 45,
@@ -5423,6 +5840,7 @@
   {
     "id": 418,
     "name": "Fletchinder",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FLETCHINDER.png",
     "primary_type": "FIRE",
     "secondary_type": "FLYING",
     "hp": 62,
@@ -5436,6 +5854,7 @@
   {
     "id": 419,
     "name": "Larvesta",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LARVESTA.png",
     "primary_type": "BUG",
     "secondary_type": "FIRE",
     "hp": 55,
@@ -5449,6 +5868,7 @@
   {
     "id": 420,
     "name": "Stunfisk",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/STUNFISK.png",
     "primary_type": "GROUND",
     "secondary_type": "ELECTRIC",
     "hp": 109,
@@ -5462,6 +5882,7 @@
   {
     "id": 421,
     "name": "Sableye",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SABLEYE.png",
     "primary_type": "DARK",
     "secondary_type": "GHOST",
     "hp": 50,
@@ -5475,6 +5896,7 @@
   {
     "id": 422,
     "name": "Venipede",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/VENIPEDE.png",
     "primary_type": "BUG",
     "secondary_type": "POISON",
     "hp": 30,
@@ -5488,6 +5910,7 @@
   {
     "id": 423,
     "name": "Whirlipede",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WHIRLIPEDE.png",
     "primary_type": "BUG",
     "secondary_type": "POISON",
     "hp": 40,
@@ -5501,6 +5924,7 @@
   {
     "id": 424,
     "name": "Scolipede",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SCOLIPEDE.png",
     "primary_type": "BUG",
     "secondary_type": "POISON",
     "hp": 60,
@@ -5514,6 +5938,7 @@
   {
     "id": 425,
     "name": "Tyrunt",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TYRUNT.png",
     "primary_type": "ROCK",
     "secondary_type": "DRAGON",
     "hp": 58,
@@ -5527,6 +5952,7 @@
   {
     "id": 426,
     "name": "Tyrantrum",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TYRANTRUM.png",
     "primary_type": "ROCK",
     "secondary_type": "DRAGON",
     "hp": 82,
@@ -5540,6 +5966,7 @@
   {
     "id": 427,
     "name": "Snorunt",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SNORUNT.png",
     "primary_type": "ICE",
     "secondary_type": "ICE",
     "hp": 50,
@@ -5553,6 +5980,7 @@
   {
     "id": 428,
     "name": "Glalie",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GLALIE.png",
     "primary_type": "ICE",
     "secondary_type": "ICE",
     "hp": 80,
@@ -5566,6 +5994,7 @@
   {
     "id": 429,
     "name": "Froslass",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FROSLASS.png",
     "primary_type": "ICE",
     "secondary_type": "GHOST",
     "hp": 70,
@@ -5579,6 +6008,7 @@
   {
     "id": 430,
     "name": "Oricorio (Baile)",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ORICORIOBAILE.png",
     "primary_type": "FIRE",
     "secondary_type": "FLYING",
     "hp": 75,
@@ -5592,6 +6022,7 @@
   {
     "id": 431,
     "name": "Oricorio (Pom-Pom)",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ORICORIOPOMPOM.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "FLYING",
     "hp": 75,
@@ -5605,6 +6036,7 @@
   {
     "id": 432,
     "name": "Oricorio (Pa'u)",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ORICORIOPAU.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "FLYING",
     "hp": 75,
@@ -5618,6 +6050,7 @@
   {
     "id": 433,
     "name": "Oricorio (Sensu)",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ORICORIOSENSU.png",
     "primary_type": "GHOST",
     "secondary_type": "FLYING",
     "hp": 75,
@@ -5631,6 +6064,7 @@
   {
     "id": 434,
     "name": "Trubbish",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TRUBBISH.png",
     "primary_type": "POISON",
     "secondary_type": "POISON",
     "hp": 50,
@@ -5644,6 +6078,7 @@
   {
     "id": 435,
     "name": "Garbodor",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GARBODOR.png",
     "primary_type": "POISON",
     "secondary_type": "POISON",
     "hp": 80,
@@ -5657,6 +6092,7 @@
   {
     "id": 436,
     "name": "Carvanha",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CARVANHA.png",
     "primary_type": "WATER",
     "secondary_type": "DARK",
     "hp": 45,
@@ -5670,6 +6106,7 @@
   {
     "id": 437,
     "name": "Sharpedo",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SHARPEDO.png",
     "primary_type": "WATER",
     "secondary_type": "DARK",
     "hp": 70,
@@ -5683,6 +6120,7 @@
   {
     "id": 438,
     "name": "Phantump",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PHANTUMP.png",
     "primary_type": "GRASS",
     "secondary_type": "GHOST",
     "hp": 43,
@@ -5696,6 +6134,7 @@
   {
     "id": 439,
     "name": "Trevenant",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TREVENANT.png",
     "primary_type": "GRASS",
     "secondary_type": "GHOST",
     "hp": 85,
@@ -5709,6 +6148,7 @@
   {
     "id": 440,
     "name": "Noibat",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/NOIBAT.png",
     "primary_type": "FLYING",
     "secondary_type": "DRAGON",
     "hp": 40,
@@ -5722,6 +6162,7 @@
   {
     "id": 441,
     "name": "Noivern",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/NOIVERN.png",
     "primary_type": "FLYING",
     "secondary_type": "DRAGON",
     "hp": 85,
@@ -5735,6 +6176,7 @@
   {
     "id": 442,
     "name": "Swablu",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SWABLU.png",
     "primary_type": "NORMAL",
     "secondary_type": "FLYING",
     "hp": 45,
@@ -5748,6 +6190,7 @@
   {
     "id": 443,
     "name": "Altaria",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ALTARIA.png",
     "primary_type": "DRAGON",
     "secondary_type": "FLYING",
     "hp": 75,
@@ -5761,6 +6204,7 @@
   {
     "id": 444,
     "name": "Goomy",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GOOMY.png",
     "primary_type": "DRAGON",
     "secondary_type": "DRAGON",
     "hp": 45,
@@ -5774,6 +6218,7 @@
   {
     "id": 445,
     "name": "Sliggoo",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SLIGGOO.png",
     "primary_type": "DRAGON",
     "secondary_type": "DRAGON",
     "hp": 68,
@@ -5787,6 +6232,7 @@
   {
     "id": 446,
     "name": "Goodra",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GOODRA.png",
     "primary_type": "DRAGON",
     "secondary_type": "DRAGON",
     "hp": 90,
@@ -5800,6 +6246,7 @@
   {
     "id": 447,
     "name": "Regirock",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/REGIROCK.png",
     "primary_type": "ROCK",
     "secondary_type": "ROCK",
     "hp": 80,
@@ -5813,6 +6260,7 @@
   {
     "id": 448,
     "name": "Regice",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/REGICE.png",
     "primary_type": "ICE",
     "secondary_type": "ICE",
     "hp": 80,
@@ -5826,6 +6274,7 @@
   {
     "id": 449,
     "name": "Registeel",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/REGISTEEL.png",
     "primary_type": "STEEL",
     "secondary_type": "STEEL",
     "hp": 80,
@@ -5839,6 +6288,7 @@
   {
     "id": 450,
     "name": "Necrozma",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/NECROZMA.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 97,
@@ -5852,6 +6302,7 @@
   {
     "id": 451,
     "name": "Stufful",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/STUFFUL.png",
     "primary_type": "NORMAL",
     "secondary_type": "FIGHTING",
     "hp": 70,
@@ -5865,6 +6316,7 @@
   {
     "id": 452,
     "name": "Bewear",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BEWEAR.png",
     "primary_type": "NORMAL",
     "secondary_type": "FIGHTING",
     "hp": 120,
@@ -5878,6 +6330,7 @@
   {
     "id": 453,
     "name": "Dhelmise",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DHELMISE.png",
     "primary_type": "GHOST",
     "secondary_type": "GRASS",
     "hp": 70,
@@ -5891,6 +6344,7 @@
   {
     "id": 454,
     "name": "Mareanie",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MAREANIE.png",
     "primary_type": "POISON",
     "secondary_type": "WATER",
     "hp": 50,
@@ -5904,6 +6358,7 @@
   {
     "id": 455,
     "name": "Toxapex",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TOXAPEX.png",
     "primary_type": "POISON",
     "secondary_type": "WATER",
     "hp": 50,
@@ -5917,6 +6372,7 @@
   {
     "id": 456,
     "name": "Hawlucha",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HAWLUCHA.png",
     "primary_type": "FIGHTING",
     "secondary_type": "FLYING",
     "hp": 78,
@@ -5930,6 +6386,7 @@
   {
     "id": 457,
     "name": "Cacnea",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CACNEA.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 50,
@@ -5943,6 +6400,7 @@
   {
     "id": 458,
     "name": "Cacturne",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CACTURNE.png",
     "primary_type": "GRASS",
     "secondary_type": "DARK",
     "hp": 70,
@@ -5956,6 +6414,7 @@
   {
     "id": 459,
     "name": "Sandygast",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SANDYGAST.png",
     "primary_type": "GROUND",
     "secondary_type": "GHOST",
     "hp": 55,
@@ -5969,6 +6428,7 @@
   {
     "id": 460,
     "name": "Palossand",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PALOSSAND.png",
     "primary_type": "GROUND",
     "secondary_type": "GHOST",
     "hp": 85,
@@ -5982,6 +6442,7 @@
   {
     "id": 461,
     "name": "Amaura",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/AMAURA.png",
     "primary_type": "ROCK",
     "secondary_type": "ICE",
     "hp": 77,
@@ -5995,6 +6456,7 @@
   {
     "id": 462,
     "name": "Aurorus",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/AURORUS.png",
     "primary_type": "ROCK",
     "secondary_type": "ICE",
     "hp": 123,
@@ -6008,6 +6470,7 @@
   {
     "id": 463,
     "name": "Rockruff",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ROCKRUFF.png",
     "primary_type": "ROCK",
     "secondary_type": "ROCK",
     "hp": 45,
@@ -6021,6 +6484,7 @@
   {
     "id": 464,
     "name": "Lycanroc Midday",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LYCANROCMIDDAY.png",
     "primary_type": "ROCK",
     "secondary_type": "ROCK",
     "hp": 75,
@@ -6034,6 +6498,7 @@
   {
     "id": 465,
     "name": "Lycanroc Midnight",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LYCANROCMIDNIGHT.png",
     "primary_type": "ROCK",
     "secondary_type": "ROCK",
     "hp": 85,
@@ -6047,6 +6512,7 @@
   {
     "id": 466,
     "name": "Meloetta (Aria)",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MELOETTAARIA.png",
     "primary_type": "NORMAL",
     "secondary_type": "PSYCHIC",
     "hp": 100,
@@ -6060,6 +6526,7 @@
   {
     "id": 467,
     "name": "Meloetta (Pirouette)",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MELOETTAPIROUETTE.png",
     "primary_type": "NORMAL",
     "secondary_type": "FIGHTING",
     "hp": 100,
@@ -6073,6 +6540,7 @@
   {
     "id": 468,
     "name": "Cresselia",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CRESSELIA.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 120,
@@ -6086,6 +6554,7 @@
   {
     "id": 469,
     "name": "Bruxish",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BRUXISH.png",
     "primary_type": "WATER",
     "secondary_type": "PSYCHIC",
     "hp": 68,
@@ -6099,6 +6568,7 @@
   {
     "id": 470,
     "name": "Ultra Necrozma",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ULTRANECROZMA.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "DRAGON",
     "hp": 97,
@@ -6112,6 +6582,7 @@
   {
     "id": 471,
     "name": "Jangmo-o",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/JANGMOO.png",
     "primary_type": "DRAGON",
     "secondary_type": "DRAGON",
     "hp": 45,
@@ -6125,6 +6596,7 @@
   {
     "id": 472,
     "name": "Hakamo-o",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HAKAMOO.png",
     "primary_type": "DRAGON",
     "secondary_type": "FIGHTING",
     "hp": 55,
@@ -6138,6 +6610,7 @@
   {
     "id": 473,
     "name": "Kommo-o",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/KOMMOO.png",
     "primary_type": "DRAGON",
     "secondary_type": "FIGHTING",
     "hp": 75,
@@ -6151,6 +6624,7 @@
   {
     "id": 474,
     "name": "Wimpod",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WIMPOD.png",
     "primary_type": "BUG",
     "secondary_type": "WATER",
     "hp": 25,
@@ -6164,6 +6638,7 @@
   {
     "id": 475,
     "name": "Golisopod",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GOLISOPOD.png",
     "primary_type": "BUG",
     "secondary_type": "WATER",
     "hp": 75,
@@ -6177,6 +6652,7 @@
   {
     "id": 476,
     "name": "Fomantis",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FOMANTIS.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 40,
@@ -6190,6 +6666,7 @@
   {
     "id": 477,
     "name": "Lurantis",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LURANTIS.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 70,
@@ -6203,6 +6680,7 @@
   {
     "id": 478,
     "name": "Carbink",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CARBINK.png",
     "primary_type": "ROCK",
     "secondary_type": "FAIRY",
     "hp": 50,
@@ -6216,6 +6694,7 @@
   {
     "id": 479,
     "name": "Chespin",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CHESPIN.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 56,
@@ -6229,6 +6708,7 @@
   {
     "id": 480,
     "name": "Quilladin",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/QUILLADIN.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 61,
@@ -6242,6 +6722,7 @@
   {
     "id": 481,
     "name": "Chesnaught",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CHESNAUGHT.png",
     "primary_type": "GRASS",
     "secondary_type": "FIGHTING",
     "hp": 88,
@@ -6255,6 +6736,7 @@
   {
     "id": 482,
     "name": "Fennekin",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FENNEKIN.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 40,
@@ -6268,6 +6750,7 @@
   {
     "id": 483,
     "name": "Braixen",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BRAIXEN.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 59,
@@ -6281,6 +6764,7 @@
   {
     "id": 484,
     "name": "Delphox",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DELPHOX.png",
     "primary_type": "FIRE",
     "secondary_type": "PSYCHIC",
     "hp": 75,
@@ -6294,6 +6778,7 @@
   {
     "id": 485,
     "name": "Froakie",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FROAKIE.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 41,
@@ -6307,6 +6792,7 @@
   {
     "id": 486,
     "name": "Frogadier",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/FROGADIER.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 54,
@@ -6320,6 +6806,7 @@
   {
     "id": 487,
     "name": "Greninja",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GRENINJA.png",
     "primary_type": "WATER",
     "secondary_type": "DARK",
     "hp": 72,
@@ -6333,6 +6820,7 @@
   {
     "id": 488,
     "name": "Torkoal",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TORKOAL.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 70,
@@ -6346,6 +6834,7 @@
   {
     "id": 489,
     "name": "Pumpkaboo",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PUMPKABOO.png",
     "primary_type": "GHOST",
     "secondary_type": "GRASS",
     "hp": 44,
@@ -6359,6 +6848,7 @@
   {
     "id": 490,
     "name": "Gourgeist",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GOURGEIST.png",
     "primary_type": "GHOST",
     "secondary_type": "GRASS",
     "hp": 65,
@@ -6372,6 +6862,7 @@
   {
     "id": 491,
     "name": "Swirlix",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SWIRLIX.png",
     "primary_type": "FAIRY",
     "secondary_type": "FAIRY",
     "hp": 62,
@@ -6385,6 +6876,7 @@
   {
     "id": 492,
     "name": "Slurpuff",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SLURPUFF.png",
     "primary_type": "FAIRY",
     "secondary_type": "FAIRY",
     "hp": 82,
@@ -6398,6 +6890,7 @@
   {
     "id": 493,
     "name": "Scraggy",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SCRAGGY.png",
     "primary_type": "DARK",
     "secondary_type": "FIGHTING",
     "hp": 50,
@@ -6411,6 +6904,7 @@
   {
     "id": 494,
     "name": "Scrafty",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SCRAFTY.png",
     "primary_type": "DARK",
     "secondary_type": "FIGHTING",
     "hp": 65,
@@ -6424,6 +6918,7 @@
   {
     "id": 495,
     "name": "Lotad",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LOTAD.png",
     "primary_type": "WATER",
     "secondary_type": "GRASS",
     "hp": 40,
@@ -6437,6 +6932,7 @@
   {
     "id": 496,
     "name": "Lombre",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LOMBRE.png",
     "primary_type": "WATER",
     "secondary_type": "GRASS",
     "hp": 60,
@@ -6450,6 +6946,7 @@
   {
     "id": 497,
     "name": "Ludicolo",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LUDICOLO.png",
     "primary_type": "WATER",
     "secondary_type": "GRASS",
     "hp": 80,
@@ -6463,6 +6960,7 @@
   {
     "id": 498,
     "name": "Minior (Meteor)",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MINIORMETEOR.png",
     "primary_type": "ROCK",
     "secondary_type": "FLYING",
     "hp": 60,
@@ -6476,6 +6974,7 @@
   {
     "id": 499,
     "name": "Minior (Core)",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MINIORCORE.png",
     "primary_type": "ROCK",
     "secondary_type": "FLYING",
     "hp": 60,
@@ -6489,6 +6988,7 @@
   {
     "id": 500,
     "name": "Diancie",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DIANCIE.png",
     "primary_type": "ROCK",
     "secondary_type": "FAIRY",
     "hp": 50,
@@ -6502,6 +7002,7 @@
   {
     "id": 501,
     "name": "Luvdisc",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LUVDISC.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 43,
@@ -6515,6 +7016,7 @@
   {
     "id": 502,
     "name": "Poochyena",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/POOCHYENA.png",
     "primary_type": "DARK",
     "secondary_type": "DARK",
     "hp": 35,
@@ -6528,6 +7030,7 @@
   {
     "id": 503,
     "name": "Mightyena",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MIGHTYENA.png",
     "primary_type": "DARK",
     "secondary_type": "DARK",
     "hp": 70,
@@ -6541,6 +7044,7 @@
   {
     "id": 504,
     "name": "Zigzagoon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ZIGZAGOON.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 38,
@@ -6554,6 +7058,7 @@
   {
     "id": 505,
     "name": "Linoone",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LINOONE.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 78,
@@ -6567,6 +7072,7 @@
   {
     "id": 506,
     "name": "Wurmple",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WURMPLE.png",
     "primary_type": "BUG",
     "secondary_type": "BUG",
     "hp": 45,
@@ -6580,6 +7086,7 @@
   {
     "id": 507,
     "name": "Silcoon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SILCOON.png",
     "primary_type": "BUG",
     "secondary_type": "BUG",
     "hp": 50,
@@ -6593,6 +7100,7 @@
   {
     "id": 508,
     "name": "Beautifly",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BEAUTIFLY.png",
     "primary_type": "BUG",
     "secondary_type": "FLYING",
     "hp": 60,
@@ -6606,6 +7114,7 @@
   {
     "id": 509,
     "name": "Cascoon",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CASCOON.png",
     "primary_type": "BUG",
     "secondary_type": "BUG",
     "hp": 50,
@@ -6619,6 +7128,7 @@
   {
     "id": 510,
     "name": "Dustox",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DUSTOX.png",
     "primary_type": "BUG",
     "secondary_type": "POISON",
     "hp": 60,
@@ -6632,6 +7142,7 @@
   {
     "id": 511,
     "name": "Seedot",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SEEDOT.png",
     "primary_type": "GRASS",
     "secondary_type": "GRASS",
     "hp": 40,
@@ -6645,6 +7156,7 @@
   {
     "id": 512,
     "name": "Nuzleaf",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/NUZLEAF.png",
     "primary_type": "GRASS",
     "secondary_type": "DARK",
     "hp": 70,
@@ -6658,6 +7170,7 @@
   {
     "id": 513,
     "name": "Shiftry",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SHIFTRY.png",
     "primary_type": "GRASS",
     "secondary_type": "DARK",
     "hp": 90,
@@ -6671,6 +7184,7 @@
   {
     "id": 514,
     "name": "Taillow",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TAILLOW.png",
     "primary_type": "NORMAL",
     "secondary_type": "FLYING",
     "hp": 40,
@@ -6684,6 +7198,7 @@
   {
     "id": 515,
     "name": "Swellow",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SWELLOW.png",
     "primary_type": "NORMAL",
     "secondary_type": "FLYING",
     "hp": 60,
@@ -6697,6 +7212,7 @@
   {
     "id": 516,
     "name": "Wingull",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WINGULL.png",
     "primary_type": "WATER",
     "secondary_type": "FLYING",
     "hp": 40,
@@ -6710,6 +7226,7 @@
   {
     "id": 517,
     "name": "Pelipper",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PELIPPER.png",
     "primary_type": "WATER",
     "secondary_type": "FLYING",
     "hp": 60,
@@ -6723,6 +7240,7 @@
   {
     "id": 518,
     "name": "Surskit",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SURSKIT.png",
     "primary_type": "BUG",
     "secondary_type": "WATER",
     "hp": 40,
@@ -6736,6 +7254,7 @@
   {
     "id": 519,
     "name": "Masquerain",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MASQUERAIN.png",
     "primary_type": "BUG",
     "secondary_type": "FLYING",
     "hp": 70,
@@ -6749,6 +7268,7 @@
   {
     "id": 520,
     "name": "Whismur",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WHISMUR.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 64,
@@ -6762,6 +7282,7 @@
   {
     "id": 521,
     "name": "Loudred",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LOUDRED.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 84,
@@ -6775,6 +7296,7 @@
   {
     "id": 522,
     "name": "Exploud",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/EXPLOUD.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 104,
@@ -6788,6 +7310,7 @@
   {
     "id": 523,
     "name": "Makuhita",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MAKUHITA.png",
     "primary_type": "FIGHTING",
     "secondary_type": "FIGHTING",
     "hp": 72,
@@ -6801,6 +7324,7 @@
   {
     "id": 524,
     "name": "Hariyama",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HARIYAMA.png",
     "primary_type": "FIGHTING",
     "secondary_type": "FIGHTING",
     "hp": 144,
@@ -6814,6 +7338,7 @@
   {
     "id": 525,
     "name": "Skitty",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SKITTY.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 50,
@@ -6827,6 +7352,7 @@
   {
     "id": 526,
     "name": "Delcatty",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DELCATTY.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 70,
@@ -6840,6 +7366,7 @@
   {
     "id": 527,
     "name": "Meditite",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MEDITITE.png",
     "primary_type": "FIGHTING",
     "secondary_type": "PSYCHIC",
     "hp": 30,
@@ -6853,6 +7380,7 @@
   {
     "id": 528,
     "name": "Medicham",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MEDICHAM.png",
     "primary_type": "FIGHTING",
     "secondary_type": "PSYCHIC",
     "hp": 60,
@@ -6866,6 +7394,7 @@
   {
     "id": 529,
     "name": "Electrike",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ELECTRIKE.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 40,
@@ -6879,6 +7408,7 @@
   {
     "id": 530,
     "name": "Manectric",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MANECTRIC.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 70,
@@ -6892,6 +7422,7 @@
   {
     "id": 531,
     "name": "Plusle",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/PLUSLE.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 60,
@@ -6905,6 +7436,7 @@
   {
     "id": 532,
     "name": "Minun",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/MINUN.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 60,
@@ -6918,6 +7450,7 @@
   {
     "id": 533,
     "name": "Volbeat",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/VOLBEAT.png",
     "primary_type": "BUG",
     "secondary_type": "BUG",
     "hp": 65,
@@ -6931,6 +7464,7 @@
   {
     "id": 534,
     "name": "Illumise",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ILLUMISE.png",
     "primary_type": "BUG",
     "secondary_type": "BUG",
     "hp": 65,
@@ -6944,6 +7478,7 @@
   {
     "id": 535,
     "name": "Gulpin",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GULPIN.png",
     "primary_type": "POISON",
     "secondary_type": "POISON",
     "hp": 70,
@@ -6957,6 +7492,7 @@
   {
     "id": 536,
     "name": "Swalot",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SWALOT.png",
     "primary_type": "POISON",
     "secondary_type": "POISON",
     "hp": 100,
@@ -6970,6 +7506,7 @@
   {
     "id": 537,
     "name": "Numel",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/NUMEL.png",
     "primary_type": "FIRE",
     "secondary_type": "GROUND",
     "hp": 60,
@@ -6983,6 +7520,7 @@
   {
     "id": 538,
     "name": "Camerupt",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CAMERUPT.png",
     "primary_type": "FIRE",
     "secondary_type": "GROUND",
     "hp": 70,
@@ -6996,6 +7534,7 @@
   {
     "id": 539,
     "name": "Spoink",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SPOINK.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 60,
@@ -7009,6 +7548,7 @@
   {
     "id": 540,
     "name": "Grumpig",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GRUMPIG.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 80,
@@ -7022,6 +7562,7 @@
   {
     "id": 541,
     "name": "Spinda",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SPINDA.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 60,
@@ -7035,6 +7576,7 @@
   {
     "id": 542,
     "name": "Zangoose",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/ZANGOOSE.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 73,
@@ -7048,6 +7590,7 @@
   {
     "id": 543,
     "name": "Seviper",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SEVIPER.png",
     "primary_type": "POISON",
     "secondary_type": "POISON",
     "hp": 73,
@@ -7061,6 +7604,7 @@
   {
     "id": 544,
     "name": "Lunatone",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/LUNATONE.png",
     "primary_type": "ROCK",
     "secondary_type": "PSYCHIC",
     "hp": 90,
@@ -7074,6 +7618,7 @@
   {
     "id": 545,
     "name": "Solrock",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SOLROCK.png",
     "primary_type": "ROCK",
     "secondary_type": "PSYCHIC",
     "hp": 90,
@@ -7087,6 +7632,7 @@
   {
     "id": 546,
     "name": "Barboach",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BARBOACH.png",
     "primary_type": "WATER",
     "secondary_type": "GROUND",
     "hp": 50,
@@ -7100,6 +7646,7 @@
   {
     "id": 547,
     "name": "Whiscash",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WHISCASH.png",
     "primary_type": "WATER",
     "secondary_type": "GROUND",
     "hp": 110,
@@ -7113,6 +7660,7 @@
   {
     "id": 548,
     "name": "Corphish",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CORPHISH.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 43,
@@ -7126,6 +7674,7 @@
   {
     "id": 549,
     "name": "Crawdaunt",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CRAWDAUNT.png",
     "primary_type": "WATER",
     "secondary_type": "DARK",
     "hp": 63,
@@ -7139,6 +7688,7 @@
   {
     "id": 550,
     "name": "Baltoy",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/BALTOY.png",
     "primary_type": "GROUND",
     "secondary_type": "PSYCHIC",
     "hp": 40,
@@ -7152,6 +7702,7 @@
   {
     "id": 551,
     "name": "Claydol",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CLAYDOL.png",
     "primary_type": "GROUND",
     "secondary_type": "PSYCHIC",
     "hp": 60,
@@ -7165,6 +7716,7 @@
   {
     "id": 552,
     "name": "Castform",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CASTFORM.png",
     "primary_type": "NORMAL",
     "secondary_type": "NORMAL",
     "hp": 70,
@@ -7178,6 +7730,7 @@
   {
     "id": 553,
     "name": "Castform (Sunny)",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CASTFORMSUNNY.png",
     "primary_type": "FIRE",
     "secondary_type": "FIRE",
     "hp": 70,
@@ -7191,6 +7744,7 @@
   {
     "id": 554,
     "name": "Castform (Rainy)",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CASTFORMRAINY.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 70,
@@ -7204,6 +7758,7 @@
   {
     "id": 555,
     "name": "Castform (Snowy)",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CASTFORMSNOWY.png",
     "primary_type": "ICE",
     "secondary_type": "ICE",
     "hp": 70,
@@ -7217,6 +7772,7 @@
   {
     "id": 556,
     "name": "Tropius",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TROPIUS.png",
     "primary_type": "GRASS",
     "secondary_type": "FLYING",
     "hp": 99,
@@ -7230,6 +7786,7 @@
   {
     "id": 557,
     "name": "Chingling",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CHINGLING.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 45,
@@ -7243,6 +7800,7 @@
   {
     "id": 558,
     "name": "Chimecho",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CHIMECHO.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "PSYCHIC",
     "hp": 75,
@@ -7256,6 +7814,7 @@
   {
     "id": 559,
     "name": "Spheal",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SPHEAL.png",
     "primary_type": "ICE",
     "secondary_type": "WATER",
     "hp": 70,
@@ -7269,6 +7828,7 @@
   {
     "id": 560,
     "name": "Sealeo",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SEALEO.png",
     "primary_type": "ICE",
     "secondary_type": "WATER",
     "hp": 90,
@@ -7282,6 +7842,7 @@
   {
     "id": 561,
     "name": "Walrein",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WALREIN.png",
     "primary_type": "ICE",
     "secondary_type": "WATER",
     "hp": 110,
@@ -7295,6 +7856,7 @@
   {
     "id": 562,
     "name": "Clamperl",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/CLAMPERL.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 35,
@@ -7308,6 +7870,7 @@
   {
     "id": 563,
     "name": "Huntail",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/HUNTAIL.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 55,
@@ -7321,6 +7884,7 @@
   {
     "id": 564,
     "name": "Gorebyss",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/GOREBYSS.png",
     "primary_type": "WATER",
     "secondary_type": "WATER",
     "hp": 55,
@@ -7334,6 +7898,7 @@
   {
     "id": 565,
     "name": "Relicanth",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/RELICANTH.png",
     "primary_type": "WATER",
     "secondary_type": "ROCK",
     "hp": 100,
@@ -7347,6 +7912,7 @@
   {
     "id": 566,
     "name": "Woobat",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/WOOBAT.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "FLYING",
     "hp": 65,
@@ -7360,6 +7926,7 @@
   {
     "id": 567,
     "name": "Swoobat",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SWOOBAT.png",
     "primary_type": "PSYCHIC",
     "secondary_type": "FLYING",
     "hp": 67,
@@ -7373,6 +7940,7 @@
   {
     "id": 568,
     "name": "Tynamo",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/TYNAMO.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 35,
@@ -7386,6 +7954,7 @@
   {
     "id": 569,
     "name": "Eelektrik",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/EELEKTRIK.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 65,
@@ -7399,6 +7968,7 @@
   {
     "id": 570,
     "name": "Eelektross",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/EELEKTROSS.png",
     "primary_type": "ELECTRIC",
     "secondary_type": "ELECTRIC",
     "hp": 85,
@@ -7412,6 +7982,7 @@
   {
     "id": 571,
     "name": "Skrelp",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/SKRELP.png",
     "primary_type": "POISON",
     "secondary_type": "WATER",
     "hp": 50,
@@ -7425,6 +7996,7 @@
   {
     "id": 572,
     "name": "Dragalge",
+    "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/pokemon_icons/DRAGALGE.png",
     "primary_type": "POISON",
     "secondary_type": "DRAGON",
     "hp": 65,

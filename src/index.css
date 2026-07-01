@@ -116,7 +116,18 @@ thead th.num, td.num { text-align: right; }
 
 tbody td { padding: 8px 10px; border-bottom: 1px solid var(--border); }
 tbody tr:hover { background: var(--panel-2); }
+tbody tr.row-link { cursor: pointer; }
 tbody tr:last-child td { border-bottom: none; }
+
+.sprite-col { width: 44px; padding: 2px 6px !important; text-align: center; }
+.sprite {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  image-rendering: pixelated;
+  display: block;
+  margin: 0 auto;
+}
 
 .name { font-weight: 600; }
 .dim { color: var(--dim); }

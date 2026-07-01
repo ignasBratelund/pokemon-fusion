@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { Fragment, useMemo, useState } from 'react'
 import pokedex from '../pokedex.json'
 
 const COLUMNS = [
@@ -125,21 +125,31 @@ export default function App() {
           <thead>
             <tr>
               {COLUMNS.map(c => (
-                <th
-                  key={c.key}
-                  onClick={() => toggleSort(c.key)}
-                  className={(c.numeric ? 'num ' : '') + (sort?.key === c.key ? 'sorted' : '')}
-                >
-                  {c.label}
-                  <span className="arrow">{sort?.key === c.key ? (sort.dir === 'asc' ? ' ▲' : ' ▼') : ''}</span>
-                </th>
+                <Fragment key={c.key}>
+                  <th
+                    onClick={() => toggleSort(c.key)}
+                    className={(c.numeric ? 'num ' : '') + (sort?.key === c.key ? 'sorted' : '')}
+                  >
+                    {c.label}
+                    <span className="arrow">{sort?.key === c.key ? (sort.dir === 'asc' ? ' ▲' : ' ▼') : ''}</span>
+                  </th>
+                  {c.key === 'id' && <th className="sprite-col" aria-label="Sprite"></th>}
+                </Fragment>
               ))}
             </tr>
           </thead>
           <tbody>
             {rows.map(p => (
-              <tr key={p.id}>
+              <tr
+                key={p.id}
+                className="row-link"
+                onClick={() => window.open(`https://www.fusiondex.org/${p.id}`, '_blank', 'noopener')}
+                title={`Open ${p.name} on FusionDex`}
+              >
                 <td className="num dim">{p.id}</td>
+                <td className="sprite-col">
+                  {p.image && <img className="sprite" src={p.image} alt={p.name} loading="lazy" />}
+                </td>
                 <td className="name">{p.name}</td>
                 <td><span className="badge" style={typeStyle(p.primary_type)}>{p.primary_type}</span></td>
                 <td>
