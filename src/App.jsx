@@ -143,8 +143,8 @@ export default function App() {
               <tr
                 key={p.id}
                 className="row-link"
-                onClick={() => window.open(`https://www.fusiondex.org/${p.id}`, '_blank', 'noopener')}
-                title={`Open ${p.name} on FusionDex`}
+                onClick={() => window.open(`https://infinitefusiondex.com/${p.id}`, '_blank', 'noopener')}
+                title={`Open ${p.name} on InfiniteFusionDex`}
               >
                 <td className="num dim">{p.id}</td>
                 <td className="sprite-col">
