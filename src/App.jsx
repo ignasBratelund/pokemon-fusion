@@ -143,7 +143,7 @@ export default function App() {
               <tr
                 key={p.id}
                 className="row-link"
-                onClick={() => window.open(`https://infinitefusiondex.com/${p.id}`, '_blank', 'noopener')}
+                onClick={() => window.open(`https://infinitefusiondex.com/details/${p.id}`, '_blank', 'noopener')}
                 title={`Open ${p.name} on InfiniteFusionDex`}
               >
                 <td className="num dim">{p.id}</td>
